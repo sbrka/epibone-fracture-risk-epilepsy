@@ -1,0 +1,42 @@
+drug,family,outcome,window_days,metric,estimate,ci_low,ci_high,p,holm_p,matched_per_arm,status
+CBZ,hypothesis,Major osteoporotic fracture,31-730,RR,1.066,0.6466,1.759,0.801,1,1371,ESTIMABLE
+CBZ,hypothesis,Broad fracture,31-730,RR,1.194,0.8426,1.691,0.3183,0.6769,1371,ESTIMABLE
+CBZ,hypothesis,Head or face injury,31-730,RR,1.066,0.7977,1.424,0.6658,1,1371,ESTIMABLE
+CBZ,hypothesis,Falls,31-730,RR,1.081,0.8075,1.446,0.6018,1,1373,ESTIMABLE
+CBZ,hypothesis,All-cause mortality,31-730,HR,0.83,0.5962,1.155,0.4363,,1371,ESTIMABLE
+PHT,hypothesis,Major osteoporotic fracture,31-730,RR,1.211,0.7758,1.891,0.3983,1,1389,ESTIMABLE
+PHT,hypothesis,Broad fracture,31-730,RR,1.224,0.882,1.699,0.2256,0.6769,1389,ESTIMABLE
+PHT,hypothesis,Head or face injury,31-730,RR,1.456,1.101,1.926,0.007877,0.03151,1389,ESTIMABLE
+PHT,hypothesis,Falls,31-730,RR,1.444,1.103,1.892,0.007142,0.02857,1389,ESTIMABLE
+PHT,hypothesis,All-cause mortality,31-730,HR,0.9611,0.7181,1.286,0.7921,,1320,ESTIMABLE
+PHB,hypothesis,Major osteoporotic fracture,31-730,RR,1.695,0.8807,3.263,0.1097,0.4387,679,ESTIMABLE
+PHB,hypothesis,Broad fracture,31-730,RR,1.714,1.046,2.809,0.03018,0.1207,679,ESTIMABLE
+PHB,hypothesis,Head or face injury,31-730,RR,0.9923,0.6653,1.48,0.9698,1,679,ESTIMABLE
+PHB,hypothesis,Falls,31-730,RR,1.026,0.6969,1.512,0.8951,1,679,ESTIMABLE
+PHB,hypothesis,All-cause mortality,31-730,HR,0.9707,0.6533,1.442,1,,685,ESTIMABLE
+VPA,hypothesis,Major osteoporotic fracture,31-730,RR,1.12,0.8049,1.558,0.5009,1,3214,ESTIMABLE
+VPA,hypothesis,Broad fracture,31-730,RR,0.9524,0.7563,1.199,0.6785,0.6785,3214,ESTIMABLE
+VPA,hypothesis,Head or face injury,31-730,RR,1.064,0.8881,1.275,0.5,1,3214,ESTIMABLE
+VPA,hypothesis,Falls,31-730,RR,1.222,1.014,1.471,0.03447,0.1034,3215,ESTIMABLE
+VPA,hypothesis,All-cause mortality,31-730,HR,1.208,0.9997,1.46,0.03669,,3212,ESTIMABLE
+OXC,descriptive,Major osteoporotic fracture,31-730,RR,0.943,0.6061,1.467,0.7946,,1847,ESTIMABLE
+OXC,descriptive,Broad fracture,31-730,RR,1.203,0.881,1.642,0.2442,,1847,ESTIMABLE
+OXC,descriptive,Head or face injury,31-730,RR,0.7108,0.5548,0.9106,0.006536,,1847,ESTIMABLE
+OXC,descriptive,All-cause mortality,31-730,HR,0.9894,0.7112,1.376,0.9316,,1847,ESTIMABLE
+TPM,descriptive,Major osteoporotic fracture,31-730,RR,0.8041,0.5295,1.221,0.3054,,2058,ESTIMABLE
+TPM,descriptive,Broad fracture,31-730,RR,0.9828,0.737,1.311,0.9061,,2058,ESTIMABLE
+TPM,descriptive,Head or face injury,31-730,RR,0.9997,0.7892,1.266,0.9979,,2058,ESTIMABLE
+TPM,descriptive,All-cause mortality,31-730,HR,0.4917,0.3686,0.6561,2.507e-06,,2400,ESTIMABLE
+ZNS,descriptive,Major osteoporotic fracture,31-730,RR,0.9139,0.5889,1.418,0.6879,,1860,ESTIMABLE
+ZNS,descriptive,Broad fracture,31-730,RR,1.033,0.7618,1.402,0.8334,,1860,ESTIMABLE
+ZNS,descriptive,Head or face injury,31-730,RR,1.02,0.7923,1.312,0.8795,,1860,ESTIMABLE
+ZNS,descriptive,All-cause mortality,31-730,HR,0.8976,0.6443,1.251,0.6143,,1860,ESTIMABLE
+B3,class (EIA3) vs NEUTRAL3,Major osteoporotic fracture,31-730,RR,1.031,0.7765,1.37,0.8316,,3279,ESTIMABLE
+B3,class (EIA3) vs NEUTRAL3,Broad fracture,31-730,RR,1.059,0.8607,1.304,0.5867,,3279,ESTIMABLE
+B3,class (EIA3) vs NEUTRAL3,Head or face injury,31-730,RR,1.22,1.024,1.453,0.02547,,3279,ESTIMABLE
+B3,class (EIA3) vs NEUTRAL3,Falls,31-730,RR,1.3,1.081,1.564,0.005092,,3209,ESTIMABLE
+B3,class (EIA3) vs NEUTRAL3,All-cause mortality,31-730,HR,0.9276,0.7661,1.123,0.9813,,3209,ESTIMABLE
+B4,"PHT, loading-excluded",Major osteoporotic fracture,31-730,RR,1.489,0.7969,2.781,0.2088,,841,ESTIMABLE
+B4,"PHT, loading-excluded",Broad fracture,31-730,RR,1.281,0.845,1.942,0.2418,,841,ESTIMABLE
+B4,"PHT, loading-excluded",Head or face injury,31-730,RR,1.608,1.133,2.282,0.007164,,841,ESTIMABLE
+B4,"PHT, loading-excluded",All-cause mortality,31-730,HR,0.8888,0.5918,1.335,0.9151,,867,ESTIMABLE

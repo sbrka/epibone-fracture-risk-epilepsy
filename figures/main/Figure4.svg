@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 510.24 612.8" width="180.00mm" height="216.18mm" font-family="'Source Sans 3', 'Myriad Pro', Arial, Helvetica, sans-serif">
+<title>Fig. 4 | Fracture and injury risk after starting enzyme-inducing and individual antiseizure medications</title>
+<rect x="0" y="0" width="510.24" height="612.8" fill="#ffffff"></rect>
+<text x="6.00" y="14.00" font-size="8" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">a</text>
+<text x="15.00" y="14.00" font-size="7" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Two-year risk after starting treatment</text>
+<text x="290.00" y="14.00" font-size="8" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">b</text>
+<text x="299.00" y="14.00" font-size="7" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Ratio in each follow-up window</text>
+<text x="6.00" y="30.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Outcome</text>
+<text x="116.00" y="30.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Risk, %</text>
+<text x="236.00" y="30.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">RR (95% CI)</text>
+<text x="296.00" y="23.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Days 31–365</text>
+<text x="296.00" y="30.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Risk ratio</text>
+<text x="366.00" y="23.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Days 31–730</text>
+<text x="366.00" y="30.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Risk ratio</text>
+<text x="436.00" y="23.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Days 366–1825</text>
+<text x="436.00" y="30.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Hazard ratio</text>
+<line x1="6.00" y1="34.00" x2="504.24" y2="34.00" stroke="#c9ccd1" stroke-width="0.6"></line>
+<text x="110.00" y="52.90" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="600" font-style="normal" letter-spacing="0">Head or face injury</text>
+<rect x="116.00" y="45.40" width="91.06" height="5.00" rx="0" fill="#1b5eae" stroke="none"></rect>
+<rect x="116.00" y="51.60" width="68.49" height="5.00" rx="0" fill="#c9ccd1" stroke="none"></rect>
+<text x="209.56" y="49.70" font-size="5.2" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">10.93</text>
+<text x="186.99" y="55.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">8.22</text>
+<text x="236.00" y="52.90" font-size="5.4" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">1.33 (1.12–1.58)</text>
+<line x1="317.49" y1="51.00" x2="331.82" y2="51.00" stroke="#1b5eae" stroke-width="1.7"></line>
+<line x1="317.49" y1="49.20" x2="317.49" y2="52.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<line x1="331.82" y1="49.20" x2="331.82" y2="52.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<circle cx="324.66" cy="51.00" r="2.2" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></circle>
+<line x1="390.22" y1="51.00" x2="400.71" y2="51.00" stroke="#1b5eae" stroke-width="1.7"></line>
+<line x1="390.22" y1="49.20" x2="390.22" y2="52.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<line x1="400.71" y1="49.20" x2="400.71" y2="52.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<circle cx="395.48" cy="51.00" r="2.2" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></circle>
+<line x1="453.48" y1="51.00" x2="464.16" y2="51.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="453.48" y1="49.20" x2="453.48" y2="52.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="464.16" y1="49.20" x2="464.16" y2="52.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="457.02" y="49.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="110.00" y="69.90" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Broad fracture composite</text>
+<rect x="116.00" y="62.40" width="52.41" height="5.00" rx="0" fill="#1b5eae" stroke="none"></rect>
+<rect x="116.00" y="68.60" width="41.78" height="5.00" rx="0" fill="#c9ccd1" stroke="none"></rect>
+<text x="170.91" y="66.70" font-size="5.2" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">6.29</text>
+<text x="160.28" y="72.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">5.01</text>
+<text x="236.00" y="69.90" font-size="5.4" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">1.25 (1.01–1.55)</text>
+<line x1="313.14" y1="68.00" x2="330.68" y2="68.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="313.14" y1="66.20" x2="313.14" y2="69.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="330.68" y1="66.20" x2="330.68" y2="69.80" stroke="#6b7280" stroke-width="0.9"></line>
+<circle cx="321.93" cy="68.00" r="2.2" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></circle>
+<line x1="387.28" y1="68.00" x2="400.16" y2="68.00" stroke="#1b5eae" stroke-width="1.7"></line>
+<line x1="387.28" y1="66.20" x2="387.28" y2="69.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<line x1="400.16" y1="66.20" x2="400.16" y2="69.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<circle cx="393.71" cy="68.00" r="2.2" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></circle>
+<line x1="451.81" y1="68.00" x2="463.97" y2="68.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="451.81" y1="66.20" x2="451.81" y2="69.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="463.97" y1="66.20" x2="463.97" y2="69.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="456.10" y="66.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="110.00" y="86.90" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="600" font-style="normal" letter-spacing="0">Major osteoporotic fracture</text>
+<rect x="116.00" y="79.40" width="25.25" height="5.00" rx="0" fill="#1b5eae" stroke="none"></rect>
+<rect x="116.00" y="85.60" width="20.43" height="5.00" rx="0" fill="#c9ccd1" stroke="none"></rect>
+<text x="143.75" y="83.70" font-size="5.2" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">3.03</text>
+<text x="138.93" y="89.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">2.45</text>
+<text x="236.00" y="86.90" font-size="5.4" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.24 (0.92–1.66)</text>
+<line x1="308.50" y1="85.00" x2="332.45" y2="85.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="308.50" y1="83.20" x2="308.50" y2="86.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="332.45" y1="83.20" x2="332.45" y2="86.80" stroke="#6b7280" stroke-width="0.9"></line>
+<circle cx="320.47" cy="85.00" r="2.2" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></circle>
+<line x1="384.41" y1="85.00" x2="402.13" y2="85.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="384.41" y1="83.20" x2="384.41" y2="86.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="402.13" y1="83.20" x2="402.13" y2="86.80" stroke="#6b7280" stroke-width="0.9"></line>
+<circle cx="393.28" cy="85.00" r="2.2" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></circle>
+<line x1="445.75" y1="85.00" x2="461.54" y2="85.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="445.75" y1="83.20" x2="445.75" y2="86.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="461.54" y1="83.20" x2="461.54" y2="86.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="451.85" y="83.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="110.00" y="103.90" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Falls</text>
+<rect x="116.00" y="96.40" width="83.09" height="5.00" rx="0" fill="#1b5eae" stroke="none"></rect>
+<rect x="116.00" y="102.60" width="75.27" height="5.00" rx="0" fill="#c9ccd1" stroke="none"></rect>
+<text x="201.59" y="100.70" font-size="5.2" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">9.97</text>
+<text x="193.77" y="106.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">9.03</text>
+<text x="236.00" y="103.90" font-size="5.4" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.10 (0.93–1.32)</text>
+<line x1="384.57" y1="102.00" x2="395.17" y2="102.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="384.57" y1="100.20" x2="384.57" y2="103.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="395.17" y1="100.20" x2="395.17" y2="103.80" stroke="#6b7280" stroke-width="0.9"></line>
+<circle cx="389.87" cy="102.00" r="2.2" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></circle>
+<line x1="453.71" y1="102.00" x2="463.81" y2="102.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="453.71" y1="100.20" x2="453.71" y2="103.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="463.81" y1="100.20" x2="463.81" y2="103.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="456.96" y="100.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="110.00" y="120.90" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Osteoporosis recorded</text>
+<rect x="116.00" y="113.40" width="29.32" height="5.00" rx="0" fill="#1b5eae" stroke="none"></rect>
+<rect x="116.00" y="119.60" width="21.57" height="5.00" rx="0" fill="#c9ccd1" stroke="none"></rect>
+<text x="147.82" y="117.70" font-size="5.2" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">3.52</text>
+<text x="140.07" y="123.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">2.59</text>
+<text x="236.00" y="120.90" font-size="5.4" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">1.36 (1.01–1.83)</text>
+<line x1="387.19" y1="119.00" x2="405.07" y2="119.00" stroke="#1b5eae" stroke-width="1.7"></line>
+<line x1="387.19" y1="117.20" x2="387.19" y2="120.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<line x1="405.07" y1="117.20" x2="405.07" y2="120.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<circle cx="396.13" cy="119.00" r="2.2" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></circle>
+<line x1="458.25" y1="119.00" x2="474.35" y2="119.00" stroke="#1b5eae" stroke-width="1.7"></line>
+<line x1="458.25" y1="117.20" x2="458.25" y2="120.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<line x1="474.35" y1="117.20" x2="474.35" y2="120.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<rect x="464.51" y="117.20" width="3.60" height="3.60" rx="0.3" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></rect>
+<text x="110.00" y="137.90" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Densitometry performed</text>
+<rect x="116.00" y="130.40" width="33.86" height="5.00" rx="0" fill="#1b5eae" stroke="none"></rect>
+<rect x="116.00" y="136.60" width="20.50" height="5.00" rx="0" fill="#c9ccd1" stroke="none"></rect>
+<text x="152.36" y="134.70" font-size="5.2" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">4.06</text>
+<text x="139.00" y="140.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">2.46</text>
+<text x="236.00" y="137.90" font-size="5.4" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">1.65 (1.25–2.18)</text>
+<line x1="322.91" y1="136.00" x2="346.00" y2="136.00" stroke="#1b5eae" stroke-width="1.7"></line>
+<line x1="322.91" y1="134.20" x2="322.91" y2="137.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<line x1="346.00" y1="134.20" x2="346.00" y2="137.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<circle cx="334.45" cy="136.00" r="2.2" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></circle>
+<line x1="393.62" y1="136.00" x2="410.40" y2="136.00" stroke="#1b5eae" stroke-width="1.7"></line>
+<line x1="393.62" y1="134.20" x2="393.62" y2="137.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<line x1="410.40" y1="134.20" x2="410.40" y2="137.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<circle cx="402.00" cy="136.00" r="2.2" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></circle>
+<line x1="458.13" y1="136.00" x2="473.13" y2="136.00" stroke="#1b5eae" stroke-width="1.7"></line>
+<line x1="458.13" y1="134.20" x2="458.13" y2="137.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<line x1="473.13" y1="134.20" x2="473.13" y2="137.80" stroke="#1b5eae" stroke-width="0.9"></line>
+<rect x="463.82" y="134.20" width="3.60" height="3.60" rx="0.3" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></rect>
+<text x="110.00" y="154.90" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">All-cause mortality</text>
+<rect x="116.00" y="147.40" width="53.85" height="5.00" rx="0" fill="#1b5eae" stroke="none"></rect>
+<rect x="116.00" y="153.60" width="51.59" height="5.00" rx="0" fill="#c9ccd1" stroke="none"></rect>
+<text x="172.35" y="151.70" font-size="5.2" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">6.46</text>
+<text x="170.09" y="157.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">6.19</text>
+<text x="236.00" y="154.90" font-size="5.4" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.04 (0.87–1.26)</text>
+<line x1="304.41" y1="153.00" x2="318.82" y2="153.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="304.41" y1="151.20" x2="304.41" y2="154.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="318.82" y1="151.20" x2="318.82" y2="154.80" stroke="#6b7280" stroke-width="0.9"></line>
+<circle cx="311.64" cy="153.00" r="2.2" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></circle>
+<line x1="382.59" y1="153.00" x2="393.78" y2="153.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="382.59" y1="151.20" x2="382.59" y2="154.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="393.78" y1="151.20" x2="393.78" y2="154.80" stroke="#6b7280" stroke-width="0.9"></line>
+<circle cx="388.19" cy="153.00" r="2.2" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></circle>
+<line x1="452.45" y1="153.00" x2="462.73" y2="153.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="452.45" y1="151.20" x2="452.45" y2="154.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="462.73" y1="151.20" x2="462.73" y2="154.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="455.80" y="151.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<line x1="116.00" y1="165.00" x2="216.00" y2="165.00" stroke="#2f3237" stroke-width="0.9"></line>
+<line x1="116.00" y1="165.00" x2="116.00" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="116.00" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0</text>
+<line x1="149.33" y1="165.00" x2="149.33" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="149.33" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">4</text>
+<line x1="182.67" y1="165.00" x2="182.67" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="182.67" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">8</text>
+<line x1="216.00" y1="165.00" x2="216.00" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="216.00" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">12</text>
+<text x="166.00" y="185.50" font-size="6.5" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Adults with the outcome (%)</text>
+<line x1="296.00" y1="36.00" x2="296.00" y2="165.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="316.89" y1="36.00" x2="316.89" y2="165.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="337.78" y1="36.00" x2="337.78" y2="165.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="350.00" y1="36.00" x2="350.00" y2="165.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="316.89" y1="36.00" x2="316.89" y2="165.00" stroke="#2f3237" stroke-width="0.8" stroke-dasharray="2.4 2.2"></line>
+<line x1="296.00" y1="165.00" x2="350.00" y2="165.00" stroke="#2f3237" stroke-width="0.9"></line>
+<line x1="296.00" y1="165.00" x2="296.00" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="296.00" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.5</text>
+<line x1="316.89" y1="165.00" x2="316.89" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="316.89" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1</text>
+<line x1="337.78" y1="165.00" x2="337.78" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="337.78" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">2</text>
+<line x1="350.00" y1="165.00" x2="350.00" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="350.00" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">3</text>
+<line x1="366.00" y1="36.00" x2="366.00" y2="165.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="386.89" y1="36.00" x2="386.89" y2="165.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="407.78" y1="36.00" x2="407.78" y2="165.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="420.00" y1="36.00" x2="420.00" y2="165.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="386.89" y1="36.00" x2="386.89" y2="165.00" stroke="#2f3237" stroke-width="0.8" stroke-dasharray="2.4 2.2"></line>
+<line x1="366.00" y1="165.00" x2="420.00" y2="165.00" stroke="#2f3237" stroke-width="0.9"></line>
+<line x1="366.00" y1="165.00" x2="366.00" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="366.00" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.5</text>
+<line x1="386.89" y1="165.00" x2="386.89" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="386.89" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1</text>
+<line x1="407.78" y1="165.00" x2="407.78" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="407.78" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">2</text>
+<line x1="420.00" y1="165.00" x2="420.00" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="420.00" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">3</text>
+<line x1="436.00" y1="36.00" x2="436.00" y2="165.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="456.89" y1="36.00" x2="456.89" y2="165.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="477.78" y1="36.00" x2="477.78" y2="165.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="490.00" y1="36.00" x2="490.00" y2="165.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="456.89" y1="36.00" x2="456.89" y2="165.00" stroke="#2f3237" stroke-width="0.8" stroke-dasharray="2.4 2.2"></line>
+<line x1="436.00" y1="165.00" x2="490.00" y2="165.00" stroke="#2f3237" stroke-width="0.9"></line>
+<line x1="436.00" y1="165.00" x2="436.00" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="436.00" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.5</text>
+<line x1="456.89" y1="165.00" x2="456.89" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="456.89" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1</text>
+<line x1="477.78" y1="165.00" x2="477.78" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="477.78" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">2</text>
+<line x1="490.00" y1="165.00" x2="490.00" y2="168.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="490.00" y="175.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">3</text>
+<rect x="304.00" y="97.80" width="38.00" height="8.40" rx="0" fill="#ffffff" stroke="none"></rect>
+<text x="323.00" y="103.90" font-size="5.2" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="italic" letter-spacing="0">Not available</text>
+<rect x="304.00" y="114.80" width="38.00" height="8.40" rx="0" fill="#ffffff" stroke="none"></rect>
+<text x="323.00" y="120.90" font-size="5.2" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="italic" letter-spacing="0">Not available</text>
+<text x="393.00" y="185.50" font-size="6.5" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Ratio (log scale)</text>
+<rect x="8.00" y="192.00" width="10.00" height="5.00" rx="0" fill="#1b5eae" stroke="none"></rect>
+<text x="21.00" y="197.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Carbamazepine, phenytoin, or phenobarbital</text>
+<rect x="132.00" y="192.00" width="10.00" height="5.00" rx="0" fill="#c9ccd1" stroke="none"></rect>
+<text x="145.00" y="197.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Levetiracetam or lamotrigine</text>
+<circle cx="300.00" cy="195.00" r="2.2" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></circle>
+<text x="306.00" y="197.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">95% CI excludes 1</text>
+<circle cx="366.00" cy="195.00" r="2.2" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></circle>
+<text x="372.00" y="197.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">95% CI includes 1</text>
+<rect x="430.20" y="193.20" width="3.60" height="3.60" rx="0.3" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></rect>
+<text x="438.00" y="197.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Hazard ratio</text>
+<text x="6.00" y="221.00" font-size="8" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">c</text>
+<text x="15.00" y="221.00" font-size="7" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Each medication vs levetiracetam, lamotrigine, or lacosamide, days 31–730</text>
+<text x="6.00" y="240.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Medication</text>
+<text x="112.00" y="233.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Major osteoporotic fracture</text>
+<text x="112.00" y="240.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Risk ratio</text>
+<text x="190.40" y="233.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Broad fracture composite</text>
+<text x="190.40" y="240.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Risk ratio</text>
+<text x="268.80" y="233.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Head or face injury</text>
+<text x="268.80" y="240.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Risk ratio</text>
+<text x="347.20" y="233.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Falls</text>
+<text x="347.20" y="240.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Risk ratio</text>
+<text x="425.60" y="233.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">All-cause mortality</text>
+<text x="425.60" y="240.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Hazard ratio</text>
+<line x1="6.00" y1="244.00" x2="504.24" y2="244.00" stroke="#c9ccd1" stroke-width="0.6"></line>
+<text x="6.00" y="255.50" font-size="5.4" fill="#2f6bb3" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Hypothesis medications (Holm-corrected)</text>
+<text x="6.00" y="265.70" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Carbamazepine</text>
+<text x="6.00" y="272.10" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">n = 1,371 per arm</text>
+<rect x="112.00" y="258.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="150.20" y="265.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.07 (0.65–1.76)</text>
+<line x1="150.20" y1="267.90" x2="150.20" y2="272.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="139.63" y1="270.30" x2="163.90" y2="270.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="151.75" cy="270.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="190.40" y="258.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="228.60" y="265.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.19 (0.84–1.69)</text>
+<line x1="228.60" y1="267.90" x2="228.60" y2="272.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="224.45" y1="270.30" x2="241.34" y2="270.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="232.90" cy="270.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="268.80" y="258.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="307.00" y="265.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.07 (0.80–1.42)</text>
+<line x1="307.00" y1="267.90" x2="307.00" y2="272.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="301.52" y1="270.30" x2="315.57" y2="270.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="308.55" cy="270.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="347.20" y="258.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="385.40" y="265.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.08 (0.81–1.45)</text>
+<line x1="385.40" y1="267.90" x2="385.40" y2="272.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="380.21" y1="270.30" x2="394.34" y2="270.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="387.29" cy="270.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="425.60" y="258.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="463.80" y="265.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.83 (0.60–1.16)</text>
+<line x1="463.80" y1="267.90" x2="463.80" y2="272.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="451.26" y1="270.30" x2="467.30" y2="270.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="459.28" cy="270.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<text x="6.00" y="284.70" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Phenytoin</text>
+<text x="6.00" y="291.10" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">n = 1,389 per arm</text>
+<rect x="112.00" y="277.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="150.20" y="284.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.21 (0.78–1.89)</text>
+<line x1="150.20" y1="286.90" x2="150.20" y2="291.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="144.04" y1="289.30" x2="165.65" y2="289.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="154.84" cy="289.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="190.40" y="277.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="228.60" y="284.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.22 (0.88–1.70)</text>
+<line x1="228.60" y1="286.90" x2="228.60" y2="291.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="225.55" y1="289.30" x2="241.46" y2="289.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="233.50" cy="289.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="268.80" y="277.50" width="76.40" height="16.00" rx="1.5" fill="#eef4fb" stroke="#c65a52" stroke-width="0.6"></rect>
+<text x="307.00" y="284.40" font-size="5.4" fill="#c65a52" text-anchor="middle" font-weight="600" font-style="normal" letter-spacing="0">1.46 (1.10–1.93)</text>
+<line x1="307.00" y1="286.90" x2="307.00" y2="291.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="309.33" y1="289.30" x2="322.90" y2="289.30" stroke="#c65a52" stroke-width="1.2"></line>
+<circle cx="316.11" cy="289.30" r="1.6" fill="#c65a52" stroke="#c65a52" stroke-width="0.7"></circle>
+<rect x="347.20" y="277.50" width="76.40" height="16.00" rx="1.5" fill="#eef4fb" stroke="#c65a52" stroke-width="0.6"></rect>
+<text x="385.40" y="284.40" font-size="5.4" fill="#c65a52" text-anchor="middle" font-weight="600" font-style="normal" letter-spacing="0">1.44 (1.10–1.89)</text>
+<line x1="385.40" y1="286.90" x2="385.40" y2="291.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="387.78" y1="289.30" x2="400.86" y2="289.30" stroke="#c65a52" stroke-width="1.2"></line>
+<circle cx="394.31" cy="289.30" r="1.6" fill="#c65a52" stroke="#c65a52" stroke-width="0.7"></circle>
+<rect x="425.60" y="277.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="463.80" y="284.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.96 (0.72–1.29)</text>
+<line x1="463.80" y1="286.90" x2="463.80" y2="291.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="455.77" y1="289.30" x2="469.90" y2="289.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="462.84" cy="289.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<text x="6.00" y="303.70" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Phenobarbital</text>
+<text x="6.00" y="310.10" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">n = 679 per arm</text>
+<rect x="112.00" y="296.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="150.20" y="303.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.70 (0.88–3.26)</text>
+<line x1="150.20" y1="305.90" x2="150.20" y2="310.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="147.12" y1="308.30" x2="178.88" y2="308.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="163.00" cy="308.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="190.40" y="296.50" width="76.40" height="16.00" rx="1.5" fill="#eef4fb" stroke="#1b5eae" stroke-width="0.6"></rect>
+<text x="228.60" y="303.40" font-size="5.4" fill="#1b5eae" text-anchor="middle" font-weight="600" font-style="normal" letter-spacing="0">1.71 (1.05–2.81)</text>
+<line x1="228.60" y1="305.90" x2="228.60" y2="310.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="229.69" y1="308.30" x2="253.65" y2="308.30" stroke="#1b5eae" stroke-width="1.2"></line>
+<circle cx="241.67" cy="308.30" r="1.6" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.7"></circle>
+<rect x="268.80" y="296.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="307.00" y="303.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.99 (0.67–1.48)</text>
+<line x1="307.00" y1="305.90" x2="307.00" y2="310.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="297.12" y1="308.30" x2="316.51" y2="308.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="306.81" cy="308.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="347.20" y="296.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="385.40" y="303.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.03 (0.70–1.51)</text>
+<line x1="385.40" y1="305.90" x2="385.40" y2="310.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="376.64" y1="308.30" x2="395.43" y2="308.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="386.02" cy="308.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="425.60" y="296.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="463.80" y="303.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.97 (0.65–1.44)</text>
+<line x1="463.80" y1="305.90" x2="463.80" y2="310.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="453.48" y1="308.30" x2="472.68" y2="308.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="463.08" cy="308.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<text x="6.00" y="322.70" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Valproate</text>
+<text x="6.00" y="329.10" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">n = 3,214 per arm</text>
+<rect x="112.00" y="315.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="150.20" y="322.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.12 (0.80–1.56)</text>
+<line x1="150.20" y1="324.90" x2="150.20" y2="329.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="144.94" y1="327.30" x2="160.95" y2="327.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="152.95" cy="327.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="190.40" y="315.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="228.60" y="322.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.95 (0.76–1.20)</text>
+<line x1="228.60" y1="324.90" x2="228.60" y2="329.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="221.83" y1="327.30" x2="233.00" y2="327.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="227.42" cy="327.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="268.80" y="315.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="307.00" y="322.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.06 (0.89–1.27)</text>
+<line x1="307.00" y1="324.90" x2="307.00" y2="329.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="304.12" y1="327.30" x2="312.89" y2="327.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="308.50" cy="327.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="347.20" y="315.50" width="76.40" height="16.00" rx="1.5" fill="#eef4fb" stroke="#1b5eae" stroke-width="0.6"></rect>
+<text x="385.40" y="322.40" font-size="5.4" fill="#1b5eae" text-anchor="middle" font-weight="600" font-style="normal" letter-spacing="0">1.22 (1.01–1.47)</text>
+<line x1="385.40" y1="324.90" x2="385.40" y2="329.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="385.74" y1="327.30" x2="394.76" y2="327.30" stroke="#1b5eae" stroke-width="1.2"></line>
+<circle cx="390.26" cy="327.30" r="1.6" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.7"></circle>
+<rect x="425.60" y="315.50" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="463.80" y="322.40" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.21 (1.00–1.46)</text>
+<line x1="463.80" y1="324.90" x2="463.80" y2="329.70" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="463.79" y1="327.30" x2="472.98" y2="327.30" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="468.38" cy="327.30" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<text x="6.00" y="345.00" font-size="5.4" fill="#2f6bb3" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Descriptive</text>
+<text x="6.00" y="355.20" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Oxcarbazepine</text>
+<text x="6.00" y="361.60" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">n = 1,847 per arm</text>
+<rect x="112.00" y="348.00" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="150.20" y="354.90" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.94 (0.61–1.47)</text>
+<line x1="150.20" y1="357.40" x2="150.20" y2="362.20" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="138.06" y1="359.80" x2="159.49" y2="359.80" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="148.78" cy="359.80" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="190.40" y="348.00" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="228.60" y="354.90" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.20 (0.88–1.64)</text>
+<line x1="228.60" y1="357.40" x2="228.60" y2="362.20" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="225.53" y1="359.80" x2="240.63" y2="359.80" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="233.08" cy="359.80" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="268.80" y="348.00" width="76.40" height="16.00" rx="1.5" fill="#f2f4f6" stroke="#2f3237" stroke-width="0.6"></rect>
+<text x="307.00" y="354.90" font-size="5.4" fill="#2f3237" text-anchor="middle" font-weight="600" font-style="normal" letter-spacing="0">0.71 (0.55–0.91)</text>
+<line x1="307.00" y1="357.40" x2="307.00" y2="362.20" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="292.71" y1="359.80" x2="304.73" y2="359.80" stroke="#2f3237" stroke-width="1.2"></line>
+<circle cx="298.72" cy="359.80" r="1.6" fill="#2f3237" stroke="#2f3237" stroke-width="0.7"></circle>
+<rect x="347.20" y="348.00" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6" stroke-dasharray="2.4 2.2"></rect>
+<text x="385.40" y="357.60" font-size="5.2" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="italic" letter-spacing="0">Not run</text>
+<rect x="425.60" y="348.00" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="463.80" y="354.90" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.99 (0.71–1.38)</text>
+<line x1="463.80" y1="357.40" x2="463.80" y2="362.20" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="455.53" y1="359.80" x2="471.54" y2="359.80" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="463.54" cy="359.80" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<text x="6.00" y="374.20" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Topiramate</text>
+<text x="6.00" y="380.60" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">n = 2,058 per arm</text>
+<rect x="112.00" y="367.00" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="150.20" y="373.90" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.80 (0.53–1.22)</text>
+<line x1="150.20" y1="376.40" x2="150.20" y2="381.20" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="134.78" y1="378.80" x2="155.04" y2="378.80" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="144.91" cy="378.80" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="190.40" y="367.00" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="228.60" y="373.90" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.98 (0.74–1.31)</text>
+<line x1="228.60" y1="376.40" x2="228.60" y2="381.20" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="221.20" y1="378.80" x2="235.17" y2="378.80" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="228.18" cy="378.80" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="268.80" y="367.00" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="307.00" y="373.90" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.00 (0.79–1.27)</text>
+<line x1="307.00" y1="376.40" x2="307.00" y2="381.20" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="301.26" y1="378.80" x2="312.72" y2="378.80" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="306.99" cy="378.80" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="347.20" y="367.00" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6" stroke-dasharray="2.4 2.2"></rect>
+<text x="385.40" y="376.60" font-size="5.2" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="italic" letter-spacing="0">Not run</text>
+<rect x="425.60" y="367.00" width="76.40" height="16.00" rx="1.5" fill="#f2f4f6" stroke="#2f3237" stroke-width="0.6"></rect>
+<text x="463.80" y="373.90" font-size="5.4" fill="#2f3237" text-anchor="middle" font-weight="600" font-style="normal" letter-spacing="0">0.49 (0.37–0.66)</text>
+<line x1="463.80" y1="376.40" x2="463.80" y2="381.20" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="439.59" y1="378.80" x2="453.58" y2="378.80" stroke="#2f3237" stroke-width="1.2"></line>
+<circle cx="446.58" cy="378.80" r="1.6" fill="#2f3237" stroke="#2f3237" stroke-width="0.7"></circle>
+<text x="6.00" y="393.20" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Zonisamide</text>
+<text x="6.00" y="399.60" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">n = 1,860 per arm</text>
+<rect x="112.00" y="386.00" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="150.20" y="392.90" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.91 (0.59–1.42)</text>
+<line x1="150.20" y1="395.40" x2="150.20" y2="400.20" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="137.36" y1="397.80" x2="158.67" y2="397.80" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="148.02" cy="397.80" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="190.40" y="386.00" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="228.60" y="392.90" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.03 (0.76–1.40)</text>
+<line x1="228.60" y1="395.40" x2="228.60" y2="400.20" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="222.00" y1="397.80" x2="236.80" y2="397.80" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="229.39" cy="397.80" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="268.80" y="386.00" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="307.00" y="392.90" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.02 (0.79–1.31)</text>
+<line x1="307.00" y1="395.40" x2="307.00" y2="400.20" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="301.35" y1="397.80" x2="313.59" y2="397.80" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="307.48" cy="397.80" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="347.20" y="386.00" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6" stroke-dasharray="2.4 2.2"></rect>
+<text x="385.40" y="395.60" font-size="5.2" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="italic" letter-spacing="0">Not run</text>
+<rect x="425.60" y="386.00" width="76.40" height="16.00" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="463.80" y="392.90" font-size="5.4" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.90 (0.64–1.25)</text>
+<line x1="463.80" y1="395.40" x2="463.80" y2="400.20" stroke="#2f3237" stroke-width="0.6"></line>
+<line x1="453.14" y1="397.80" x2="469.23" y2="397.80" stroke="#6b7280" stroke-width="1.2"></line>
+<circle cx="461.18" cy="397.80" r="1.6" fill="#ffffff" stroke="#6b7280" stroke-width="0.7"></circle>
+<rect x="8.00" y="408.60" width="12.00" height="6.40" rx="1.5" fill="#eef4fb" stroke="#c65a52" stroke-width="0.6"></rect>
+<text x="24.00" y="414.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Holm-adjusted P &lt; 0.05</text>
+<rect x="104.00" y="408.60" width="12.00" height="6.40" rx="1.5" fill="#eef4fb" stroke="#1b5eae" stroke-width="0.6"></rect>
+<text x="120.00" y="414.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">95% CI above 1</text>
+<rect x="178.00" y="408.60" width="12.00" height="6.40" rx="1.5" fill="#f2f4f6" stroke="#2f3237" stroke-width="0.6"></rect>
+<text x="194.00" y="414.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">95% CI below 1</text>
+<rect x="252.00" y="408.60" width="12.00" height="6.40" rx="1.5" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.6"></rect>
+<text x="268.00" y="414.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">95% CI includes 1</text>
+<text x="340.00" y="414.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">Bars show the 95% CI on a log scale from 0.3 to 3.3; tick, 1.</text>
+<text x="6.00" y="438.00" font-size="8" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">d</text>
+<text x="15.00" y="438.00" font-size="7" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Lacosamide vs levetiracetam: published signal and reconstructions</text>
+<text x="6.00" y="453.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Design</text>
+<text x="156.00" y="453.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Follow-up, days</text>
+<text x="226.00" y="453.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Matched per arm, n</text>
+<text x="428.00" y="453.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">HR (95% CI)</text>
+<line x1="6.00" y1="457.00" x2="504.24" y2="457.00" stroke="#c9ccd1" stroke-width="0.6"></line>
+<rect x="368.11" y="458.00" width="11.76" height="127.00" rx="0" fill="#eef4fb" stroke="none"></rect>
+<line x1="332.08" y1="458.00" x2="332.08" y2="585.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="363.40" y1="458.00" x2="363.40" y2="585.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="394.72" y1="458.00" x2="394.72" y2="585.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="413.04" y1="458.00" x2="413.04" y2="585.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="363.40" y1="458.00" x2="363.40" y2="585.00" stroke="#2f3237" stroke-width="0.8" stroke-dasharray="2.4 2.2"></line>
+<line x1="322.00" y1="585.00" x2="420.00" y2="585.00" stroke="#2f3237" stroke-width="0.9"></line>
+<line x1="332.08" y1="585.00" x2="332.08" y2="588.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="332.08" y="595.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.5</text>
+<line x1="363.40" y1="585.00" x2="363.40" y2="588.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="363.40" y="595.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1</text>
+<line x1="394.72" y1="585.00" x2="394.72" y2="588.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="394.72" y="595.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">2</text>
+<line x1="413.04" y1="585.00" x2="413.04" y2="588.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="413.04" y="595.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">3</text>
+<text x="371.00" y="605.50" font-size="6.5" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Hazard ratio (log scale)</text>
+<line x1="374.20" y1="458.00" x2="374.20" y2="585.00" stroke="#2f6bb3" stroke-width="0.8" stroke-dasharray="2.4 2.2"></line>
+<text x="6.00" y="468.90" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Published estimate</text>
+<text x="156.00" y="468.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1–1825</text>
+<text x="226.00" y="468.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">20,888 / 20,888</text>
+<line x1="368.11" y1="467.00" x2="379.87" y2="467.00" stroke="#2f3237" stroke-width="1.7"></line>
+<line x1="368.11" y1="465.20" x2="368.11" y2="468.80" stroke="#2f3237" stroke-width="0.9"></line>
+<line x1="379.87" y1="465.20" x2="379.87" y2="468.80" stroke="#2f3237" stroke-width="0.9"></line>
+<rect x="372.40" y="465.20" width="3.60" height="3.60" rx="0.3" fill="#2f3237" stroke="#2f3237" stroke-width="0.75"></rect>
+<text x="428.00" y="468.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">1.27 (1.11–1.44)</text>
+<text x="6.00" y="479.90" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">3 or more prescriptions after day 0</text>
+<text x="156.00" y="479.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1–1825</text>
+<text x="226.00" y="479.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">3,219 / 3,217</text>
+<line x1="338.00" y1="478.00" x2="377.62" y2="478.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="338.00" y1="476.20" x2="338.00" y2="479.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="377.62" y1="476.20" x2="377.62" y2="479.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="356.33" y="476.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="428.00" y="479.90" font-size="5.4" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.89 (0.57–1.37)</text>
+<text x="6.00" y="490.90" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">6 or more prescriptions after day 0</text>
+<text x="156.00" y="490.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1–1825</text>
+<text x="226.00" y="490.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1,804 / 1,804</text>
+<line x1="330.24" y1="489.00" x2="379.24" y2="489.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="330.24" y1="487.20" x2="330.24" y2="490.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="379.24" y1="487.20" x2="379.24" y2="490.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="353.18" y="487.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="428.00" y="490.90" font-size="5.4" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.83 (0.48–1.42)</text>
+<text x="6.00" y="501.90" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Methods as written</text>
+<text x="156.00" y="501.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1–1825</text>
+<text x="226.00" y="501.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">14,362 / 14,347</text>
+<line x1="355.52" y1="500.00" x2="373.48" y2="500.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="355.52" y1="498.20" x2="355.52" y2="501.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="373.48" y1="498.20" x2="373.48" y2="501.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="362.93" y="498.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="428.00" y="501.90" font-size="5.4" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.03 (0.84–1.25)</text>
+<text x="6.00" y="512.90" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">90-day exposure window</text>
+<text x="156.00" y="512.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">91–1825</text>
+<text x="226.00" y="512.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">18,427 / 18,358</text>
+<line x1="357.11" y1="511.00" x2="371.64" y2="511.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="357.11" y1="509.20" x2="357.11" y2="512.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="371.64" y1="509.20" x2="371.64" y2="512.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="362.49" y="509.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="428.00" y="512.90" font-size="5.4" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.02 (0.87–1.20)</text>
+<text x="6.00" y="523.90" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">3-month landmark</text>
+<text x="156.00" y="523.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">91–1825</text>
+<text x="226.00" y="523.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1,298 / 1,289</text>
+<line x1="342.52" y1="522.00" x2="383.20" y2="522.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="342.52" y1="520.20" x2="342.52" y2="523.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="383.20" y1="520.20" x2="383.20" y2="523.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="361.14" y="520.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="428.00" y="523.90" font-size="5.4" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.99 (0.63–1.55)</text>
+<text x="6.00" y="534.90" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">6-month landmark</text>
+<text x="156.00" y="534.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">181–1825</text>
+<text x="226.00" y="534.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">614 / 605</text>
+<line x1="349.79" y1="533.00" x2="415.67" y2="533.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="349.79" y1="531.20" x2="349.79" y2="534.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="415.67" y1="531.20" x2="415.67" y2="534.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="380.81" y="531.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="428.00" y="534.90" font-size="5.4" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.53 (0.74–3.18)</text>
+<text x="6.00" y="545.90" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">New-user design</text>
+<text x="156.00" y="545.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">31–1825</text>
+<text x="226.00" y="545.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">6,841 / 6,781</text>
+<line x1="355.52" y1="544.00" x2="374.55" y2="544.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="355.52" y1="542.20" x2="355.52" y2="545.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="374.55" y1="542.20" x2="374.55" y2="545.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="363.37" y="542.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="428.00" y="545.90" font-size="5.4" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.04 (0.84–1.28)</text>
+<text x="6.00" y="556.90" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">New-user design</text>
+<text x="156.00" y="556.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">31–365</text>
+<text x="226.00" y="556.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">6,841 / 6,781</text>
+<line x1="349.79" y1="555.00" x2="382.02" y2="555.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="349.79" y1="553.20" x2="349.79" y2="556.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="382.02" y1="553.20" x2="382.02" y2="556.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="364.23" y="553.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="428.00" y="556.90" font-size="5.4" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.06 (0.74–1.51)</text>
+<text x="6.00" y="567.90" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Corrected oral new-user design</text>
+<text x="156.00" y="567.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">31–730</text>
+<text x="226.00" y="567.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">6,031 / 6,019</text>
+<line x1="352.23" y1="566.00" x2="377.66" y2="566.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="352.23" y1="564.20" x2="352.23" y2="567.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="377.66" y1="564.20" x2="377.66" y2="567.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="363.15" y="564.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="428.00" y="567.90" font-size="5.4" fill="#6b7280" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">1.03 (0.78–1.37)</text>
+<text x="6.00" y="578.90" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Corrected oral new-user design</text>
+<text x="156.00" y="578.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">31–365</text>
+<text x="226.00" y="578.90" font-size="5.4" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">6,031 / 6,019</text>
+<line x1="343.83" y1="577.00" x2="376.60" y2="577.00" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="343.83" y1="575.20" x2="343.83" y2="578.80" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="376.60" y1="575.20" x2="376.60" y2="578.80" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="358.42" y="575.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="428.00" y="578.90" font-size="5.4" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.93 (0.65–1.34)</text>
+<text x="6.00" y="597.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">Shaded band and dashed blue line: 95% CI and point estimate of the published study.</text>
+<text x="6.00" y="604.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">Outcome in every row: hip, cervical vertebra, or forearm fracture.</text>
+</svg>

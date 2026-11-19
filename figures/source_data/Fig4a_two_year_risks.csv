@@ -1,0 +1,8 @@
+outcome,risk_inducer_pct,risk_reference_pct,risk_ratio,ci_low,ci_high,n_inducer,n_reference,events_inducer,events_reference
+Head or face injury,10.927,8.219,1.330,1.117,1.582,2535,2397,277,197
+Broad fracture composite,6.289,5.014,1.254,1.013,1.553,2862,2852,180,143
+Major osteoporotic fracture,3.030,2.452,1.236,0.921,1.658,3201,3181,97,78
+Falls,9.971,9.033,1.104,0.926,1.316,2397,2369,239,214
+Osteoporosis recorded,3.518,2.589,1.359,1.010,1.828,2814,2858,99,74
+Densitometry performed,4.063,2.460,1.651,1.250,2.182,3126,3130,127,77
+All-cause mortality,6.462,6.191,1.044,0.867,1.257,3296,3311,213,205

@@ -1,0 +1,90 @@
+domain,outcome_key,outcome,window,horizon,status,n_inducer,n_reference,events_inducer,events_reference,risk_inducer_pct,risk_reference_pct,rr,rr_ci_low,rr_ci_high,rd_p,hr,hr_ci_low,hr_ci_high,logrank_p,display_measure,testing_frequency_only,source
+Fracture,R1,Major osteoporotic fracture,days 31-365,H1,estimable,2993,2974,51,45,1.704,1.513,1.126,0.757,1.676,0.5579,1.077,0.721,1.608,0.7182,RR,no,screen-captured live table (export failed)
+Injury,R2,Head or face injury,days 31-365,H1,estimable,2394,2262,152,111,6.349,4.907,1.294,1.020,1.641,0.0331,1.239,0.970,1.582,0.0860,RR,no,screen-captured live table (export failed)
+Fracture,F1,"Published composite (S72, S12, S52)",days 31-365,H1,estimable,3025,3039,36,28,1.190,0.921,1.292,0.790,2.111,0.3059,1.244,0.759,2.039,0.3846,RR,no,screen-captured live table (export failed)
+Fracture,F2,Broad fracture composite,days 31-365,H1,estimable,2676,2668,96,81,3.587,3.036,1.182,0.883,1.580,0.2600,1.133,0.843,1.522,0.4089,RR,no,screen-captured live table (export failed)
+Fracture,F3,Hip or proximal femur fracture,days 31-365,H1,estimable,3168,3188,17,14,0.537,0.439,1.222,0.603,2.475,0.5770,1.174,0.579,2.382,0.6559,RR,no,screen-captured live table (export failed)
+Fracture,F4,Clinical vertebral fracture,days 31-365,H1,estimable,3156,3130,24,24,0.760,0.767,0.992,0.564,1.743,0.9771,0.943,0.535,1.660,0.8378,RR,no,screen-captured live table (export failed)
+Fracture,F5,Distal forearm fracture,days 31-365,H1,privacy suppressed,,,,,,,,,,,,,,,RR,no,screen-captured live table (export failed)
+Fracture,F6,Proximal humerus fracture,days 31-365,H1,privacy suppressed,,,,,,,,,,,,,,,RR,no,screen-captured live table (export failed)
+Injury,F7,Skull or facial fracture,days 31-365,H1,estimable,3112,3107,25,22,0.803,0.708,1.135,0.641,2.008,0.6645,1.083,0.611,1.921,0.7846,RR,no,screen-captured live table (export failed)
+Injury,F8,Shoulder dislocation,days 31-365,H1,privacy suppressed,,,,,,,,,,,,,,,RR,no,screen-captured live table (export failed)
+Fracture,R1,Major osteoporotic fracture,days 31-730,H2,estimable,3201,3181,97,78,3.030,2.452,1.236,0.921,1.658,0.1573,1.153,0.856,1.554,0.3480,RR,no,validated TriNetX export
+Injury,R2,Head or face injury,days 31-730,H2,estimable,2535,2397,277,197,10.927,8.219,1.330,1.117,1.582,0.0013,1.242,1.035,1.491,0.0197,RR,no,validated TriNetX export
+Fracture,F1,"Published composite (S72, S12, S52)",days 31-730,H2,estimable,3239,3253,76,60,2.346,1.844,1.272,0.910,1.778,0.1579,1.187,0.846,1.666,0.3196,RR,no,validated TriNetX export
+Fracture,F2,Broad fracture composite,days 31-730,H2,estimable,2862,2852,180,143,6.289,5.014,1.254,1.013,1.553,0.0369,1.177,0.945,1.466,0.1445,RR,no,validated TriNetX export
+Fracture,F3,Hip or proximal femur fracture,days 31-730,H2,estimable,3385,3390,39,27,1.152,0.796,1.447,0.888,2.357,0.1361,1.343,0.822,2.193,0.2377,RR,no,validated TriNetX export
+Fracture,F4,Clinical vertebral fracture,days 31-730,H2,estimable,3371,3351,42,31,1.246,0.925,1.347,0.849,2.137,0.2045,1.251,0.786,1.989,0.3439,RR,no,validated TriNetX export
+Fracture,F5,Distal forearm fracture,days 31-730,H2,estimable,3414,3399,23,20,0.674,0.588,1.145,0.630,2.081,0.6567,1.059,0.582,1.929,0.8507,RR,no,validated TriNetX export
+Fracture,F6,Proximal humerus fracture,days 31-730,H2,estimable,3410,3422,19,19,0.557,0.555,1.004,0.532,1.892,0.9913,0.929,0.492,1.754,0.8192,RR,no,validated TriNetX export
+Injury,F7,Skull or facial fracture,days 31-730,H2,estimable,3328,3324,45,30,1.352,0.903,1.498,0.946,2.372,0.0824,1.397,0.880,2.218,0.1541,RR,no,validated TriNetX export
+Injury,F8,Shoulder dislocation,days 31-730,H2,privacy suppressed,,,,,,,,,,,,,,,RR,no,validated TriNetX export
+Fracture,R1,Major osteoporotic fracture,days 366-1825,H3,estimable,3158,3175,116,108,3.673,3.402,1.080,0.835,1.397,0.5585,0.898,0.691,1.167,0.4214,HR,no,validated TriNetX export
+Injury,R2,Head or face injury,days 366-1825,H3,estimable,2380,2271,284,214,11.933,9.423,1.266,1.071,1.498,0.0057,1.066,0.893,1.273,0.4794,HR,no,validated TriNetX export
+Fracture,F1,"Published composite (S72, S12, S52)",days 366-1825,H3,estimable,3210,3252,90,77,2.804,2.368,1.184,0.877,1.599,0.2694,0.986,0.728,1.338,0.9303,HR,no,validated TriNetX export
+Fracture,F2,Broad fracture composite,days 366-1825,H3,estimable,2765,2756,211,170,7.631,6.168,1.237,1.018,1.503,0.0320,1.034,0.845,1.265,0.7481,HR,no,validated TriNetX export
+Fracture,F3,Hip or proximal femur fracture,days 366-1825,H3,estimable,3384,3406,49,39,1.448,1.145,1.265,0.833,1.921,0.2698,1.067,0.701,1.626,0.7618,HR,no,validated TriNetX export
+Fracture,F4,Clinical vertebral fracture,days 366-1825,H3,estimable,3359,3337,50,50,1.489,1.498,0.993,0.673,1.466,0.9736,0.829,0.560,1.227,0.3475,HR,no,validated TriNetX export
+Fracture,F5,Distal forearm fracture,days 366-1825,H3,estimable,3420,3424,30,24,0.877,0.701,1.251,0.733,2.136,0.4099,1.034,0.604,1.768,0.9043,HR,no,validated TriNetX export
+Fracture,F6,Proximal humerus fracture,days 366-1825,H3,estimable,3418,3425,25,24,0.731,0.701,1.044,0.597,1.824,0.8803,0.871,0.497,1.525,0.6278,HR,no,validated TriNetX export
+Injury,F7,Skull or facial fracture,days 366-1825,H3,estimable,3313,3303,55,44,1.660,1.332,1.246,0.841,1.847,0.2719,1.040,0.699,1.546,0.8465,HR,no,validated TriNetX export
+Injury,F8,Shoulder dislocation,days 366-1825,H3,privacy suppressed,,,,,,,,,,,,,,,HR,no,validated TriNetX export
+Bone health,F9,Osteoporosis with pathological fracture (M80),days 31-365,H1,result unavailable,,,,,,,,,,,,,,,RR,no,validated TriNetX export
+Injury,M1,Falls,days 31-365,H1,result unavailable,,,,,,,,,,,,,,,RR,no,validated TriNetX export
+Injury,M2,"Dizziness, ataxia, or gait disturbance",days 31-365,H1,result unavailable,,,,,,,,,,,,,,,RR,no,validated TriNetX export
+Injury,M3,Seizure-related emergency or inpatient encounter,days 31-365,H1,not executable on platform,,,,,,,,,,,,,,,RR,no,validated TriNetX export
+Bone health,M4,Osteoporosis (M81),days 31-365,H1,result unavailable,,,,,,,,,,,,,,,RR,no,validated TriNetX export
+Bone health,M5,Osteopenia,days 31-365,H1,result unavailable,,,,,,,,,,,,,,,RR,no,validated TriNetX export
+Bone health,M6,Vitamin D deficiency (E55),days 31-365,H1,result unavailable,,,,,,,,,,,,,,,RR,no,validated TriNetX export
+Bone health,M7,Osteomalacia (M83),days 31-365,H1,result unavailable,,,,,,,,,,,,,,,RR,no,validated TriNetX export
+Bone health,M8,New bisphosphonate or denosumab,days 31-365,H1,result unavailable,,,,,,,,,,,,,,,RR,no,validated TriNetX export
+Bone health,M9,New vitamin D or calcium supplement,days 31-365,H1,result unavailable,,,,,,,,,,,,,,,RR,no,validated TriNetX export
+Testing,L1T,GGT test,days 31-365,H1,estimable,,,89,84,3.265,3.081,1.060,0.790,1.421,0.6993,,,,,RR,yes,validated TriNetX export
+Testing,L2T,25-hydroxyvitamin D test (laboratory panel),days 31-365,H1,estimable,,,320,296,11.739,10.858,1.081,0.932,1.255,0.3045,,,,,RR,yes,validated TriNetX export
+Testing,L3T,Alkaline phosphatase test,days 31-365,H1,estimable,,,1479,1323,54.255,48.533,1.118,1.061,1.177,0.0000236692,,,,,RR,yes,validated TriNetX export
+Testing,L4T,Calcium test,days 31-365,H1,estimable,,,1552,1429,56.933,52.421,1.086,1.035,1.140,0.0008190,,,,,RR,yes,validated TriNetX export
+Testing,L5T,Sodium test,days 31-365,H1,estimable,,,1666,1534,61.115,56.273,1.086,1.039,1.136,0.0002826325,,,,,RR,yes,validated TriNetX export
+Testing,A1,Densitometry (DXA),days 31-365,H1,estimable,3106,3090,72,40,2.318,1.294,1.791,1.221,2.627,0.0025,1.725,1.172,2.538,0.0051,RR,no,screen-captured live table (export failed)
+Testing,A2,Vitamin D test,days 31-365,H1,estimable,2829,2769,110,131,3.888,4.731,0.822,0.641,1.053,0.1204,0.783,0.608,1.009,0.0585,RR,no,screen-captured live table (export failed)
+Selection diagnostic,D1,All-cause mortality,days 31-365,H1,estimable,3266,3273,119,142,3.644,4.339,0.840,0.661,1.066,0.1512,0.802,0.628,1.023,0.0750,RR,no,screen-captured live table (export failed)
+Selection diagnostic,D2,Emergency department visit,days 31-365,H1,estimable,1328,1253,180,162,13.554,12.929,1.048,0.860,1.278,0.6396,1.011,0.818,1.250,0.9188,RR,no,screen-captured live table (export failed)
+Selection diagnostic,D3,Inpatient encounter,days 31-365,H1,estimable,1149,1089,127,120,11.053,11.019,1.003,0.793,1.269,0.9796,0.959,0.747,1.231,0.7433,RR,no,screen-captured live table (export failed)
+Bone health,F9,Osteoporosis with pathological fracture (M80),days 31-730,H2,estimable,3125,3111,19,23,0.608,0.739,0.822,0.449,1.507,0.5261,0.766,0.417,1.406,0.3879,RR,no,validated TriNetX export
+Injury,M1,Falls,days 31-730,H2,estimable,2397,2369,239,214,9.971,9.033,1.104,0.926,1.316,0.2699,1.041,0.866,1.252,0.6659,RR,no,validated TriNetX export
+Injury,M2,"Dizziness, ataxia, or gait disturbance",days 31-730,H2,estimable,2250,2096,260,243,11.556,11.594,0.997,0.846,1.175,0.9688,0.931,0.782,1.109,0.4237,RR,no,validated TriNetX export
+Injury,M3,Seizure-related emergency or inpatient encounter,days 31-730,H2,not executable on platform,,,,,,,,,,,,,,,RR,no,validated TriNetX export
+Bone health,M4,Osteoporosis (M81),days 31-730,H2,estimable,2814,2858,99,74,3.518,2.589,1.359,1.010,1.828,0.0419,1.269,0.939,1.715,0.1202,RR,no,validated TriNetX export
+Bone health,M5,Osteopenia,days 31-730,H2,estimable,2931,2857,91,96,3.105,3.360,0.924,0.697,1.225,0.5827,0.858,0.644,1.143,0.2952,RR,no,validated TriNetX export
+Bone health,M6,Vitamin D deficiency (E55),days 31-730,H2,estimable,2535,2466,222,181,8.757,7.340,1.193,0.988,1.440,0.0656,1.118,0.919,1.361,0.2633,RR,no,validated TriNetX export
+Bone health,M7,Osteomalacia (M83),days 31-730,H2,privacy suppressed,,,,,,,,,,,,,,,RR,no,validated TriNetX export
+Bone health,M8,New bisphosphonate or denosumab,days 31-730,H2,estimable,3041,3029,60,47,1.973,1.552,1.272,0.871,1.857,0.2123,1.186,0.809,1.737,0.3809,RR,no,validated TriNetX export
+Bone health,M9,New vitamin D or calcium supplement,days 31-730,H2,estimable,1697,1579,434,333,25.575,21.089,1.213,1.070,1.375,0.0025,1.160,1.005,1.338,0.0417,RR,no,validated TriNetX export
+Testing,L1T,GGT test,days 31-730,H2,estimable,,,131,110,4.072,3.419,1.191,0.929,1.527,0.1680,,,,,RR,yes,validated TriNetX export
+Testing,L2T,25-hydroxyvitamin D test (laboratory panel),days 31-730,H2,estimable,,,548,492,17.035,15.294,1.114,0.996,1.245,0.0579,,,,,RR,yes,validated TriNetX export
+Testing,L3T,Alkaline phosphatase test,days 31-730,H2,estimable,,,2122,1946,65.962,60.491,1.090,1.050,1.132,0.0000053529,,,,,RR,yes,validated TriNetX export
+Testing,L4T,Calcium test,days 31-730,H2,estimable,,,2215,2065,68.853,64.190,1.073,1.036,1.111,0.0000741186,,,,,RR,yes,validated TriNetX export
+Testing,L5T,Sodium test,days 31-730,H2,estimable,,,2316,2171,71.993,67.485,1.067,1.033,1.102,0.0000831880,,,,,RR,yes,validated TriNetX export
+Testing,A1,Densitometry (DXA),days 31-730,H2,estimable,3126,3130,127,77,4.063,2.460,1.651,1.250,2.182,0.0003590,1.551,1.169,2.059,0.0022,RR,no,validated TriNetX export
+Testing,A2,Vitamin D test,days 31-730,H2,estimable,2849,2799,229,220,8.038,7.860,1.023,0.856,1.221,0.8048,0.945,0.786,1.137,0.5508,RR,no,validated TriNetX export
+Selection diagnostic,D1,All-cause mortality,days 31-730,H2,estimable,3296,3311,213,205,6.462,6.191,1.044,0.867,1.257,0.6511,0.971,0.801,1.176,0.7599,RR,no,validated TriNetX export
+Selection diagnostic,D2,Emergency department visit,days 31-730,H2,estimable,1311,1226,258,220,19.680,17.945,1.097,0.933,1.290,0.2641,1.029,0.860,1.232,0.7555,RR,no,validated TriNetX export
+Selection diagnostic,D3,Inpatient encounter,days 31-730,H2,estimable,1157,1121,204,219,17.632,19.536,0.903,0.760,1.072,0.2426,0.826,0.683,1.000,0.0492,RR,no,validated TriNetX export
+Bone health,F9,Osteoporosis with pathological fracture (M80),days 366-1825,H3,estimable,3481,3480,25,30,0.718,0.862,0.833,0.491,1.414,0.4978,0.701,0.412,1.192,0.1869,HR,no,validated TriNetX export
+Injury,M1,Falls,days 366-1825,H3,estimable,2555,2569,307,248,12.016,9.654,1.245,1.063,1.458,0.0065,1.064,0.900,1.258,0.4684,HR,no,validated TriNetX export
+Injury,M2,"Dizziness, ataxia, or gait disturbance",days 366-1825,H3,estimable,2338,2142,330,252,14.115,11.765,1.200,1.029,1.398,0.0194,1.015,0.861,1.196,0.8618,HR,no,validated TriNetX export
+Bone health,M4,Osteoporosis (M81),days 366-1825,H3,estimable,3093,3150,139,88,4.494,2.794,1.609,1.237,2.091,0.0003,1.367,1.046,1.785,0.0214,HR,no,validated TriNetX export
+Bone health,M5,Osteopenia,days 366-1825,H3,estimable,3205,3159,140,108,4.368,3.419,1.278,0.999,1.634,0.0504,1.067,0.830,1.372,0.6123,HR,no,validated TriNetX export
+Bone health,M6,Vitamin D deficiency (E55),days 366-1825,H3,estimable,2664,2625,309,235,11.599,8.952,1.296,1.103,1.522,0.0015,1.108,0.935,1.313,0.2355,HR,no,validated TriNetX export
+Bone health,M7,Osteomalacia (M83),days 366-1825,H3,privacy suppressed,,,,,,,,,,,,,,,HR,no,validated TriNetX export
+Bone health,M8,New bisphosphonate or denosumab,days 366-1825,H3,estimable,3363,3369,67,58,1.992,1.722,1.157,0.817,1.639,0.4107,0.979,0.688,1.391,0.9042,HR,no,validated TriNetX export
+Bone health,M9,New vitamin D or calcium supplement,days 366-1825,H3,estimable,1569,1409,466,334,29.700,23.705,1.253,1.110,1.414,0.0002,1.108,0.962,1.275,0.1536,HR,no,validated TriNetX export
+Testing,L1T,GGT test,days 366-1825,H3,estimable,,,153,134,4.680,4.099,1.142,0.910,1.432,0.2514,,,,,HR,yes,screen-captured live table (export failed)
+Testing,L2T,25-hydroxyvitamin D test (laboratory panel),days 366-1825,H3,estimable,,,746,616,22.820,18.844,1.211,1.101,1.332,<0.0001,,,,,HR,yes,screen-captured live table (export failed)
+Testing,L3T,Alkaline phosphatase test,days 366-1825,H3,estimable,,,2016,1731,61.670,52.952,1.165,1.117,1.215,<0.0001,,,,,HR,yes,screen-captured live table (export failed)
+Testing,L4T,Calcium test,days 366-1825,H3,estimable,,,2074,1807,63.444,55.277,1.148,1.102,1.195,<0.0001,,,,,HR,yes,screen-captured live table (export failed)
+Testing,L5T,Sodium test,days 366-1825,H3,estimable,,,2174,1899,66.504,58.091,1.145,1.102,1.189,<0.0001,,,,,HR,yes,screen-captured live table (export failed)
+Testing,A1,Densitometry (DXA),days 366-1825,H3,estimable,3182,3226,158,102,4.965,3.162,1.570,1.230,2.005,0.0002534,1.336,1.042,1.714,0.0221,HR,no,validated TriNetX export
+Testing,A2,Vitamin D test,days 366-1825,H3,estimable,2855,2731,331,244,11.594,8.934,1.298,1.109,1.518,0.0010775,1.101,0.933,1.299,0.2525,HR,no,validated TriNetX export
+Selection diagnostic,D1,All-cause mortality,days 366-1825,H3,estimable,3308,3296,292,239,8.827,7.251,1.217,1.033,1.434,0.0185332,1.024,0.863,1.214,0.7898,HR,no,validated TriNetX export
+Selection diagnostic,D2,Emergency department visit,days 366-1825,H3,estimable,1196,1165,258,192,21.572,16.481,1.309,1.106,1.549,0.0016387,1.090,0.904,1.314,0.3655,HR,no,validated TriNetX export
+Selection diagnostic,D3,Inpatient encounter,days 366-1825,H3,estimable,1054,1046,223,186,21.157,17.782,1.190,0.999,1.417,0.0508227,0.965,0.795,1.173,0.7237,HR,no,validated TriNetX export

@@ -1,0 +1,156 @@
+figure,panel,item,printed,source
+Fig2,a,"Major osteoporotic fracture, days 1-90",Risk ratio 2.65 (2.34–2.99),BURDEN_KEY_ESTIMATES A01 / eTable 12A
+Fig2,a,"Hip or proximal femur fracture, days 1-90",Risk ratio 5.18 (3.89–6.90),BURDEN_KEY_ESTIMATES A01 / eTable 12A
+Fig2,a,"Falls, days 1-90",Risk ratio 2.52 (2.37–2.69),BURDEN_KEY_ESTIMATES A01 / eTable 12A
+Fig2,a,"Head or face injury, days 1-90",Risk ratio 2.31 (2.17–2.45),BURDEN_KEY_ESTIMATES A01 / eTable 12A
+Fig2,b,"Hip or proximal femur fracture, days 1-90",5.18,BURDEN_KEY_ESTIMATES A01 / eTable 12A
+Fig2,c,"Hip or proximal femur fracture, days 1-90",3.8,BURDEN_KEY_ESTIMATES A01 / eTable 12A; risk difference x 365/window length
+Fig2,b,"Hip or proximal femur fracture, days 91-365",2.70,BURDEN_KEY_ESTIMATES A02 / eTable 12A
+Fig2,c,"Hip or proximal femur fracture, days 91-365",1.4,BURDEN_KEY_ESTIMATES A02 / eTable 12A; risk difference x 365/window length
+Fig2,b,"Hip or proximal femur fracture, days 366-1095",2.68,BURDEN_KEY_ESTIMATES A03 / eTable 12A
+Fig2,c,"Hip or proximal femur fracture, days 366-1095",1.0,BURDEN_KEY_ESTIMATES A03 / eTable 12A; risk difference x 365/window length
+Fig2,b,"Major osteoporotic fracture, days 1-90",2.65,BURDEN_KEY_ESTIMATES A01 / eTable 12A
+Fig2,c,"Major osteoporotic fracture, days 1-90",9.4,BURDEN_KEY_ESTIMATES A01 / eTable 12A; risk difference x 365/window length
+Fig2,b,"Major osteoporotic fracture, days 91-365",1.88,BURDEN_KEY_ESTIMATES A02 / eTable 12A
+Fig2,c,"Major osteoporotic fracture, days 91-365",4.1,BURDEN_KEY_ESTIMATES A02 / eTable 12A; risk difference x 365/window length
+Fig2,b,"Major osteoporotic fracture, days 366-1095",1.69,BURDEN_KEY_ESTIMATES A03 / eTable 12A
+Fig2,c,"Major osteoporotic fracture, days 366-1095",2.4,BURDEN_KEY_ESTIMATES A03 / eTable 12A; risk difference x 365/window length
+Fig2,b,"Broad fracture composite, days 1-90",2.11,"eTable 12A T13R03; RD from rounded arm risks, no CI available"
+Fig2,c,"Broad fracture composite, days 1-90",17.4,"eTable 12A T13R03; RD from rounded arm risks, no CI available; risk difference x 365/window length"
+Fig2,b,"Broad fracture composite, days 91-365",1.52,"eTable 12A T13R08; RD from rounded arm risks, no CI available"
+Fig2,c,"Broad fracture composite, days 91-365",6.8,"eTable 12A T13R08; RD from rounded arm risks, no CI available; risk difference x 365/window length"
+Fig2,b,"Broad fracture composite, days 366-1095",1.49,"eTable 12A T13R11; RD from rounded arm risks, no CI available"
+Fig2,c,"Broad fracture composite, days 366-1095",4.2,"eTable 12A T13R11; RD from rounded arm risks, no CI available; risk difference x 365/window length"
+Fig2,b,"Falls, days 1-90",2.52,BURDEN_KEY_ESTIMATES A01 / eTable 12A
+Fig2,c,"Falls, days 1-90",35.2,BURDEN_KEY_ESTIMATES A01 / eTable 12A; risk difference x 365/window length
+Fig2,b,"Falls, days 91-365",1.86,BURDEN_KEY_ESTIMATES A02 / eTable 12A
+Fig2,c,"Falls, days 91-365",15.5,BURDEN_KEY_ESTIMATES A02 / eTable 12A; risk difference x 365/window length
+Fig2,b,"Falls, days 366-1095",1.66,BURDEN_KEY_ESTIMATES A03 / eTable 12A
+Fig2,c,"Falls, days 366-1095",8.4,BURDEN_KEY_ESTIMATES A03 / eTable 12A; risk difference x 365/window length
+Fig2,b,"Head or face injury, days 1-90",2.31,BURDEN_KEY_ESTIMATES A01 / eTable 12A
+Fig2,c,"Head or face injury, days 1-90",37.0,BURDEN_KEY_ESTIMATES A01 / eTable 12A; risk difference x 365/window length
+Fig2,b,"Head or face injury, days 91-365",1.74,BURDEN_KEY_ESTIMATES A02 / eTable 12A
+Fig2,c,"Head or face injury, days 91-365",15.7,BURDEN_KEY_ESTIMATES A02 / eTable 12A; risk difference x 365/window length
+Fig2,b,"Head or face injury, days 366-1095",1.57,BURDEN_KEY_ESTIMATES A03 / eTable 12A
+Fig2,c,"Head or face injury, days 366-1095",8.0,BURDEN_KEY_ESTIMATES A03 / eTable 12A; risk difference x 365/window length
+Fig2,d,"TriNetX network, vs migraine, days 366-1095","HR 1.49 (1.43–1.54); n 224,639 / 230,348; events 6,134 / 4,357; risks 2.73% / 1.89%",eTable 12A T13R11
+Fig2,d,"All of Us replication, 3 y","HR 1.64 (1.43–1.88); n 4,599 / 38,740; events 332 / 1,456; risks 7.65% / 4.76%",eTable 12A T13R14
+Fig2,d,"All of Us replication, competing risk","SHR 1.64 (1.43–1.87); n 4,599 / 38,740; events 332 / 1,456; risks 7.65% / 4.76%",eTable 12A T13R15
+Fig2,d,"All of Us, strict 2-code phenotype","HR 1.61 (1.26–2.08); n 1,206 / 8,174; events 93 / 361; risks 8.58% / 5.46%",eTable 12A T13R17
+Fig2,d,"All of Us, syncope comparator","HR 1.34 (1.17–1.54); n 4,698 / 16,531; events 332 / 908; risks 7.70% / 5.76%",eTable 12A T13R16
+Fig3,a,"Skull or facial fracture, days 1-90",1.99,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d1_90_BATCHB (6ab598ecb8d1e4ed54a89898)
+Fig3,a,"Skull or facial fracture, days 366-1095",1.80,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d366_1095_BATCHB (6ab59792afc6c65dbc191152)
+Fig3,a,"Shoulder dislocation, days 1-90",3.16,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d1_90_BATCHB (6ab598ecb8d1e4ed54a89898)
+Fig3,a,"Shoulder dislocation, days 366-1095",1.41,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d366_1095_BATCHB (6ab59792afc6c65dbc191152)
+Fig3,a,"Clinical vertebral fracture, days 1-90",1.81,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d1_90 (6ab51a90afc6c65dbc184445)
+Fig3,a,"Clinical vertebral fracture, days 366-1095",1.55,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d366_1095 (6ab5161eb8d1e4ed54a7c488)
+Fig3,a,"Distal forearm fracture, days 1-90",1.69,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d1_90 (6ab51a90afc6c65dbc184445)
+Fig3,a,"Distal forearm fracture, days 366-1095",1.20,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d366_1095 (6ab5161eb8d1e4ed54a7c488)
+Fig3,a,"Hip or proximal femur fracture, days 1-90",4.03,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d1_90 (6ab51a90afc6c65dbc184445)
+Fig3,a,"Hip or proximal femur fracture, days 366-1095",2.77,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d366_1095 (6ab5161eb8d1e4ed54a7c488)
+Fig3,a,"Major osteoporotic fracture, days 1-90",2.22,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d1_90 (6ab51a90afc6c65dbc184445)
+Fig3,a,"Major osteoporotic fracture, days 366-1095",1.67,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d366_1095 (6ab5161eb8d1e4ed54a7c488)
+Fig3,a,"Broad fracture composite, days 1-90",1.91,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d1_90 (6ab51a90afc6c65dbc184445)
+Fig3,a,"Broad fracture composite, days 366-1095",1.41,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d366_1095 (6ab5161eb8d1e4ed54a7c488)
+Fig3,b,All adults,"point at densitometry RR 0.89 (0.84–0.93), osteoporosis RR 1.29 (1.22–1.36) (no number printed)",V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_CORE_d366_1095 (6ab5161eb8d1e4ed54a7c488)
+Fig3,b,Women,"point at densitometry RR 0.76 (0.72–0.81), osteoporosis RR 1.14 (1.07–1.21) (no number printed)",V2R_ESTIMATES V2R_T3_F_CORE_d366_1095 (6ab5189367308823a9f19e29)
+Fig3,b,Women aged ≥50 y,"point at densitometry RR 0.69 (0.65–0.73), osteoporosis RR 0.96 (0.90–1.02) (no number printed)",V2R_ESTIMATES V2R_T3_F50_CORE_d366_1095 (6ab51916b8d1e4ed54a7c6ed)
+Fig3,b,Men,"point at densitometry RR 1.39 (1.22–1.59), osteoporosis RR 1.68 (1.45–1.93) (no number printed)",V2R_ESTIMATES V2R_T3_M_CORE_d366_1095 (6ab51970b8d1e4ed54a7c71f)
+Fig3,b,Aged ≥65 y,"point at densitometry RR 0.62 (0.59–0.65), osteoporosis RR 0.95 (0.88–1.02) (no number printed)",eTable 6 (S35); FIGURE3_V3_DATA
+Fig3,c,Osteoporosis recorded,HR 1.63 (1.20–2.21),V2R_ESTIMATES V2R_T1_EPI_vs_MIG_CORE_d366_1095 (6ab50035b8d1e4ed54a7b484)
+Fig3,c,Broad fracture composite,HR 1.45 (0.97–2.16),V2R_ESTIMATES V2R_T1_EPI_vs_MIG_CORE_d366_1095 (6ab50035b8d1e4ed54a7b484)
+Fig3,c,Head or face injury,HR 1.45 (1.00–2.09),V2R_ESTIMATES V2R_T1_EPI_vs_MIG_CORE_d366_1095 (6ab50035b8d1e4ed54a7b484)
+Fig3,c,Falls,HR 1.37 (0.96–1.95),V2R_ESTIMATES V2R_T1_EPI_vs_MIG_CORE_d366_1095 (6ab50035b8d1e4ed54a7b484)
+Fig3,c,Major osteoporotic fracture,HR 1.50 (0.82–2.73),V2R_ESTIMATES V2R_T1_EPI_vs_MIG_CORE_d366_1095 (6ab50035b8d1e4ed54a7b484)
+Fig3,c,Vitamin D measured (testing),HR 1.10 (0.82–1.47),V2R_ESTIMATES V2R_T1_EPI_vs_MIG_CORE_d366_1095 (6ab50035b8d1e4ed54a7b484)
+Fig3,d,"Primary cohort, days 1–365",0.66,BURDEN_KEY_ESTIMATES A06 / eTable 10A
+Fig3,d,Bone-enriched cohort,0.64,V2R_ESTIMATES V2R_T2_EPI_vs_MIG_BONEPS_NC10_d366_1095 (6ab51b14b8d1e4ed54a7c8c7)
+Fig3,d,Women,0.64,V2R_ESTIMATES V2R_T3_F_NC10_d366_1095 (6ab51accafc6c65dbc1844a3)
+Fig3,d,Women aged ≥50 y,0.62,V2R_ESTIMATES V2R_T3_F50_NC10_d366_1095 (6ab51ae1afc6c65dbc1844a8)
+Fig3,d,Men,0.66,V2R_ESTIMATES V2R_T3_M_NC10_d366_1095 (6ab51af7b8d1e4ed54a7c8b4)
+Fig4,a,"Head or face injury, days 31-730",risks 10.93 vs 8.22; RR 1.33 (1.12–1.58),validated TriNetX export
+Fig4,b,"Head or face injury, Days 31–365",marker at RR 1.29 (1.02–1.64) (no number printed),screen-captured live table (export failed)
+Fig4,b,"Head or face injury, Days 31–730",marker at RR 1.33 (1.12–1.58) (no number printed),validated TriNetX export
+Fig4,b,"Head or face injury, Days 366–1825",marker at HR 1.07 (0.89–1.27) (no number printed),validated TriNetX export
+Fig4,a,"Broad fracture composite, days 31-730",risks 6.29 vs 5.01; RR 1.25 (1.01–1.55),validated TriNetX export
+Fig4,b,"Broad fracture composite, Days 31–365",marker at RR 1.18 (0.88–1.58) (no number printed),screen-captured live table (export failed)
+Fig4,b,"Broad fracture composite, Days 31–730",marker at RR 1.25 (1.01–1.55) (no number printed),validated TriNetX export
+Fig4,b,"Broad fracture composite, Days 366–1825",marker at HR 1.03 (0.84–1.26) (no number printed),validated TriNetX export
+Fig4,a,"Major osteoporotic fracture, days 31-730",risks 3.03 vs 2.45; RR 1.24 (0.92–1.66),validated TriNetX export
+Fig4,b,"Major osteoporotic fracture, Days 31–365",marker at RR 1.13 (0.76–1.68) (no number printed),screen-captured live table (export failed)
+Fig4,b,"Major osteoporotic fracture, Days 31–730",marker at RR 1.24 (0.92–1.66) (no number printed),validated TriNetX export
+Fig4,b,"Major osteoporotic fracture, Days 366–1825",marker at HR 0.90 (0.69–1.17) (no number printed),validated TriNetX export
+Fig4,a,"Falls, days 31-730",risks 9.97 vs 9.03; RR 1.10 (0.93–1.32),validated TriNetX export
+Fig4,b,"Falls, Days 31–730",marker at RR 1.10 (0.93–1.32) (no number printed),validated TriNetX export
+Fig4,b,"Falls, Days 366–1825",marker at HR 1.06 (0.90–1.26) (no number printed),validated TriNetX export
+Fig4,a,"Osteoporosis recorded, days 31-730",risks 3.52 vs 2.59; RR 1.36 (1.01–1.83),validated TriNetX export
+Fig4,b,"Osteoporosis recorded, Days 31–730",marker at RR 1.36 (1.01–1.83) (no number printed),validated TriNetX export
+Fig4,b,"Osteoporosis recorded, Days 366–1825",marker at HR 1.37 (1.05–1.78) (no number printed),validated TriNetX export
+Fig4,a,"Densitometry performed, days 31-730",risks 4.06 vs 2.46; RR 1.65 (1.25–2.18),validated TriNetX export
+Fig4,b,"Densitometry performed, Days 31–365",marker at RR 1.79 (1.22–2.63) (no number printed),screen-captured live table (export failed)
+Fig4,b,"Densitometry performed, Days 31–730",marker at RR 1.65 (1.25–2.18) (no number printed),validated TriNetX export
+Fig4,b,"Densitometry performed, Days 366–1825",marker at HR 1.34 (1.04–1.71) (no number printed),validated TriNetX export
+Fig4,a,"All-cause mortality, days 31-730",risks 6.46 vs 6.19; RR 1.04 (0.87–1.26),validated TriNetX export
+Fig4,b,"All-cause mortality, Days 31–365",marker at RR 0.84 (0.66–1.07) (no number printed),screen-captured live table (export failed)
+Fig4,b,"All-cause mortality, Days 31–730",marker at RR 1.04 (0.87–1.26) (no number printed),validated TriNetX export
+Fig4,b,"All-cause mortality, Days 366–1825",marker at HR 1.02 (0.86–1.21) (no number printed),validated TriNetX export
+Fig4,c,"Carbamazepine, Major osteoporotic fracture",1.07 (0.65–1.76),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Carbamazepine, Broad fracture composite",1.19 (0.84–1.69),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Carbamazepine, Head or face injury",1.07 (0.80–1.42),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Carbamazepine, Falls",1.08 (0.81–1.45),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Carbamazepine, All-cause mortality",0.83 (0.60–1.16),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Phenytoin, Major osteoporotic fracture",1.21 (0.78–1.89),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Phenytoin, Broad fracture composite",1.22 (0.88–1.70),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Phenytoin, Head or face injury",1.46 (1.10–1.93) (Holm P < 0.05),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Phenytoin, Falls",1.44 (1.10–1.89) (Holm P < 0.05),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Phenytoin, All-cause mortality",0.96 (0.72–1.29),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Phenobarbital, Major osteoporotic fracture",1.70 (0.88–3.26),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Phenobarbital, Broad fracture composite",1.71 (1.05–2.81),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Phenobarbital, Head or face injury",0.99 (0.67–1.48),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Phenobarbital, Falls",1.03 (0.70–1.51),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Phenobarbital, All-cause mortality",0.97 (0.65–1.44),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Valproate, Major osteoporotic fracture",1.12 (0.80–1.56),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Valproate, Broad fracture composite",0.95 (0.76–1.20),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Valproate, Head or face injury",1.06 (0.89–1.27),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Valproate, Falls",1.22 (1.01–1.47),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Valproate, All-cause mortality",1.21 (1.00–1.46),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Oxcarbazepine, Major osteoporotic fracture",0.94 (0.61–1.47),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Oxcarbazepine, Broad fracture composite",1.20 (0.88–1.64),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Oxcarbazepine, Head or face injury",0.71 (0.55–0.91),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Oxcarbazepine, All-cause mortality",0.99 (0.71–1.38),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Topiramate, Major osteoporotic fracture",0.80 (0.53–1.22),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Topiramate, Broad fracture composite",0.98 (0.74–1.31),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Topiramate, Head or face injury",1.00 (0.79–1.27),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Topiramate, All-cause mortality",0.49 (0.37–0.66),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Zonisamide, Major osteoporotic fracture",0.91 (0.59–1.42),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Zonisamide, Broad fracture composite",1.03 (0.76–1.40),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Zonisamide, Head or face injury",1.02 (0.79–1.31),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,c,"Zonisamide, All-cause mortality",0.90 (0.64–1.25),F4B_DRUG_VS_NEUTRAL3_FOREST.csv
+Fig4,d,"Published estimate, days 1–1825","HR 1.27 (1.11–1.44); 20,888 per arm from the published abstract","Published estimate (manuscript reference 11); external benchmark, never pooled"
+Fig4,d,"3 or more prescriptions after day 0, days 1–1825",HR 0.89 (0.57–1.37),EPIBONE_SUPPLEMENT_2026-08-24.md REPL2026_P3_LCM_vs_LEV_PAPER9_d1_5y
+Fig4,d,"6 or more prescriptions after day 0, days 1–1825",HR 0.83 (0.48–1.42),EPIBONE_SUPPLEMENT_2026-08-24.md REPL2026_P6_LCM_vs_LEV_PAPER9_d1_5y
+Fig4,d,"Methods as written, days 1–1825",HR 1.03 (0.84–1.25),EPIBONE_SUPPLEMENT_2026-08-24.md REPL2026_LITERAL_LCM_vs_LEV_PAPER9_d1_5y
+Fig4,d,"90-day exposure window, days 91–1825",HR 1.02 (0.87–1.20),EPIBONE_SUPPLEMENT_2026-08-24.md REPL2026_LIB90_LCM_vs_LEV_PAPER9_d91_5y
+Fig4,d,"3-month landmark, days 91–1825",HR 0.99 (0.63–1.55),EPIBONE_SUPPLEMENT_2026-08-24.md REPL2026_LM3_LCM_vs_LEV_PAPER9_d91_5y
+Fig4,d,"6-month landmark, days 181–1825",HR 1.53 (0.74–3.18),EPIBONE_SUPPLEMENT_2026-08-24.md REPL2026_LM6_LCM_vs_LEV_PAPER9_d181_5y
+Fig4,d,"New-user design, days 31–1825",HR 1.04 (0.84–1.28),EPIBONE_SUPPLEMENT_2026-08-24.md REPL2026_NU_LCM_vs_LEV_PAPER9_d31_5y
+Fig4,d,"New-user design, days 31–365",HR 1.06 (0.74–1.51),EPIBONE_SUPPLEMENT_2026-08-24.md REPL2026_NU_LCM_vs_LEV_PAPER9_d31_1y
+Fig4,d,"Corrected oral new-user design, days 31–730",HR 1.03 (0.78–1.37),EPIBONE_PNU_MATRIX_FINAL_MULTIPLICITY M44_730
+Fig4,d,"Corrected oral new-user design, days 31–365",HR 0.93 (0.65–1.34),EPIBONE_PNU_MATRIX_FINAL_MULTIPLICITY M44_365
+Fig5,a,"Two or more ASMs, major_fracture",reported 1.44 (1.11–1.87); calibrated 1.55 (1.19–2.00); q 0.081 / 0.025,s32v1_10_primary_cause_specific_cox
+Fig5,a,"Two or more ASMs, osteoporosis",reported 1.72 (1.20–2.49); calibrated 1.85 (1.28–2.67); q 0.081 / 0.025,s32v1_10_primary_cause_specific_cox
+Fig5,a,"Two or more ASMs, osteopenia",reported 1.29 (0.93–1.79); calibrated 1.38 (1.00–1.92); q 0.43 / 0.52,s32v1_10_primary_cause_specific_cox
+Fig5,a,"Two or more ASMs, vitamin_d_deficiency",reported 1.01 (0.77–1.33); calibrated 1.08 (0.82–1.43); q >0.99 / >0.99,s32v1_10_primary_cause_specific_cox
+Fig5,a,"Enzyme-inducing medication, major_fracture",reported 1.25 (0.90–1.73); calibrated none; q 0.56 / –,s32v1_10_primary_cause_specific_cox
+Fig5,a,"Enzyme-inducing medication, osteoporosis",reported 1.58 (0.98–2.55); calibrated none; q 0.28 / –,s32v1_10_primary_cause_specific_cox
+Fig5,a,"Baseline status epilepticus, major_fracture",reported 1.39 (0.94–2.06); calibrated none; q 0.37 / Suppressed,s32v1_10_primary_cause_specific_cox
+Fig5,a,"Seizure-record rate, major_fracture",reported 1.11 (1.00–1.22); calibrated 1.03 (0.93–1.13); q 0.28 / >0.99,s32v1_10_primary_cause_specific_cox
+Fig5,a,"Seizure-record rate, osteoporosis",reported 1.26 (1.12–1.43); calibrated 1.17 (1.04–1.32); q 0.009 / 0.19,s32v1_10_primary_cause_specific_cox
+Fig5,a,"Baseline convulsive seizures, major_fracture",reported 0.79 (0.59–1.05); calibrated 0.74 (0.55–0.99); q 0.37 / 0.50,s32v1_10_primary_cause_specific_cox
+Fig5,a,"Baseline convulsive seizures, osteoporosis",reported 1.04 (0.66–1.64); calibrated 0.98 (0.62–1.55); q >0.99 / >0.99,s32v1_10_primary_cause_specific_cox
+Fig5,a,"Per additional comorbid condition, major_fracture",reported 1.13 (1.05–1.22); calibrated 1.07 (0.94–1.20); q 0.043 / >0.99,s34v1_10_multimorbidity_continuous
+Fig5,a,"Per additional comorbid condition, osteoporosis",reported 1.03 (0.93–1.15); calibrated 0.97 (0.84–1.12); q >0.99 / >0.99,s34v1_10_multimorbidity_continuous
+Fig5,b,"1 vs 0 chronic conditions, major_fracture",1.58 (1.00–2.48),s34v1_11_multimorbidity_categorical
+Fig5,b,"2 vs 0 chronic conditions, major_fracture",1.66 (1.04–2.65),s34v1_11_multimorbidity_categorical
+Fig5,b,"3 or more vs 0 chronic conditions, major_fracture",1.90 (1.23–2.93),s34v1_11_multimorbidity_categorical
+Fig5,b,global test,Global P = 0.037,s34v1_11_multimorbidity_categorical

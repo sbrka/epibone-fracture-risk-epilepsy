@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 510.24 467" width="180.00mm" height="164.75mm" font-family="'Source Sans 3', 'Myriad Pro', Arial, Helvetica, sans-serif">
+<title>Fig. 1 | Overview of study designs</title>
+<rect x="0" y="0" width="510.24" height="467" fill="#ffffff"></rect>
+<text x="6.00" y="14.00" font-size="8" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">a</text>
+<text x="15.00" y="14.00" font-size="7" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Fracture and injury burden after a first recorded epilepsy diagnosis (TriNetX)</text>
+<line x1="232.00" y1="20.00" x2="232.00" y2="96.00" stroke="#2f6bb3" stroke-width="1.4"></line>
+<text x="6.00" y="31.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">ELIGIBILITY</text>
+<rect x="100.00" y="21.50" width="130.00" height="17.00" rx="2" fill="#eef4fb" stroke="#2f6bb3" stroke-width="0.8"></rect>
+<text x="165.00" y="27.70" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Age ≥18 y · ≥2 epilepsy records</text>
+<text x="165.00" y="34.70" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">No epilepsy, seizure, or ASM record in prior 2 y</text>
+<text x="236.00" y="27.70" font-size="5.2" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Day 0: first recorded epilepsy diagnosis</text>
+<text x="236.00" y="34.70" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Comparator: first recorded migraine diagnosis, defined the same way</text>
+<text x="6.00" y="51.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">EXCLUSIONS</text>
+<rect x="100.00" y="41.50" width="130.00" height="17.00" rx="2" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.8"></rect>
+<text x="165.00" y="47.70" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Prior osteoporosis or major fracture</text>
+<text x="165.00" y="54.70" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Prior events of each outcome, per outcome</text>
+<text x="6.00" y="71.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">MATCHING</text>
+<rect x="146.00" y="61.50" width="84.00" height="17.00" rx="2" fill="#f7f9fb" stroke="#c9ccd1" stroke-width="0.8"></rect>
+<text x="188.00" y="67.70" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1:1 matching</text>
+<text x="188.00" y="74.70" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">37 covariates, days −365 to −1</text>
+<text x="236.00" y="71.90" font-size="5.2" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">252,822 per arm · maximum postmatch ASMD 0.04</text>
+<text x="6.00" y="89.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">FOLLOW-UP</text>
+<rect x="232.47" y="83.50" width="29.53" height="9.00" rx="2" fill="#ffffff" stroke="#1b5eae" stroke-width="0.8"></rect>
+<text x="247.23" y="89.90" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Days 1–90</text>
+<rect x="262.17" y="83.50" width="45.83" height="9.00" rx="2" fill="#ffffff" stroke="#1b5eae" stroke-width="0.8"></rect>
+<text x="285.08" y="89.90" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Days 91–365</text>
+<rect x="308.12" y="83.50" width="85.88" height="9.00" rx="2" fill="#ffffff" stroke="#1b5eae" stroke-width="0.8"></rect>
+<text x="351.06" y="89.90" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Days 366–1095</text>
+<text x="6.00" y="105.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">SENSITIVITY</text>
+<text x="100.00" y="105.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Bone-enriched model, 63 characteristics · adults aged ≥65 y, 49,067 per arm · women, women aged ≥50 y, men · densitometry in the prior 3 y, 1,624 per arm (exploratory)</text>
+<text x="450.00" y="28.00" font-size="5.6" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">How large, and when?</text>
+<text x="450.00" y="36.00" font-size="5.6" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Injury or skeletal</text>
+<text x="450.00" y="44.00" font-size="5.6" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">fragility?</text>
+<text x="450.00" y="53.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Figs. 2 and 3</text>
+<line x1="6.00" y1="118.00" x2="504.24" y2="118.00" stroke="#e7e6e1" stroke-width="0.6"></line>
+<text x="6.00" y="132.00" font-size="8" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">b</text>
+<text x="15.00" y="132.00" font-size="7" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Replication of the burden comparison (All of Us Research Program)</text>
+<line x1="232.00" y1="138.00" x2="232.00" y2="170.00" stroke="#2f6bb3" stroke-width="1.4"></line>
+<text x="6.00" y="149.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">COMPARATORS</text>
+<rect x="100.00" y="139.50" width="130.00" height="17.00" rx="2" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.8"></rect>
+<text x="165.00" y="145.70" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Migraine, 4,599 vs 38,740 adults, overlap weighted</text>
+<text x="165.00" y="152.70" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Syncope, 4,698 vs 16,531 adults</text>
+<text x="236.00" y="145.70" font-size="5.2" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Day 0: first recorded epilepsy diagnosis</text>
+<text x="236.00" y="152.70" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Epilepsy cohort compared with each comparator cohort</text>
+<text x="6.00" y="167.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">FOLLOW-UP</text>
+<rect x="232.47" y="161.50" width="161.53" height="9.00" rx="2" fill="#ffffff" stroke="#1b5eae" stroke-width="0.8"></rect>
+<text x="313.23" y="167.90" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">3 years · cause-specific and competing-risk hazard ratios</text>
+<text x="450.00" y="146.00" font-size="5.6" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Does it replicate?</text>
+<text x="450.00" y="155.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Fig. 2d</text>
+<line x1="6.00" y1="180.00" x2="504.24" y2="180.00" stroke="#e7e6e1" stroke-width="0.6"></line>
+<text x="6.00" y="194.00" font-size="8" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">c</text>
+<text x="15.00" y="194.00" font-size="7" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Antiseizure medication target-trial emulations, oral new users (TriNetX)</text>
+<line x1="232.00" y1="202.00" x2="232.00" y2="302.00" stroke="#2f6bb3" stroke-width="1.4"></line>
+<text x="6.00" y="211.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">ELIGIBILITY</text>
+<rect x="100.00" y="204.50" width="130.00" height="11.00" rx="2" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.8"></rect>
+<text x="165.00" y="211.90" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Age ≥18 y · ≥730 days of prior records</text>
+<text x="236.00" y="211.90" font-size="5.2" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Day 0: first oral initiation of the study medication</text>
+<text x="6.00" y="225.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">EPILEPSY RECORD</text>
+<rect x="146.00" y="218.50" width="44.00" height="11.00" rx="2" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.8"></rect>
+<text x="168.00" y="225.90" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Days −365 to −61</text>
+<rect x="204.00" y="218.50" width="26.00" height="11.00" rx="2" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.8"></rect>
+<text x="217.00" y="225.90" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">−30 to −1</text>
+<text x="236.00" y="225.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Other antiseizure medications permitted · analyzed as initiated</text>
+<text x="6.00" y="242.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">WASHOUT</text>
+<rect x="146.00" y="232.50" width="84.00" height="17.00" rx="2" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.8"></rect>
+<text x="188.00" y="238.70" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">No record of either study</text>
+<text x="188.00" y="245.70" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">medication, by any route</text>
+<text x="6.00" y="259.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">MATCHING</text>
+<rect x="146.00" y="252.50" width="84.00" height="11.00" rx="2" fill="#f7f9fb" stroke="#c9ccd1" stroke-width="0.8"></rect>
+<text x="188.00" y="259.90" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Frozen 77-characteristic model</text>
+<text x="6.00" y="279.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">FOLLOW-UP</text>
+<rect x="246.27" y="268.00" width="61.73" height="8.00" rx="2" fill="#ffffff" stroke="#1b5eae" stroke-width="0.8"></rect>
+<text x="277.13" y="273.90" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Days 31–365</text>
+<rect x="246.27" y="278.00" width="105.73" height="8.00" rx="2" fill="#ffffff" stroke="#1b5eae" stroke-width="0.8"></rect>
+<text x="299.13" y="283.90" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Days 31–730</text>
+<rect x="308.12" y="288.00" width="131.88" height="8.00" rx="2" fill="#ffffff" stroke="#1b5eae" stroke-width="0.8"></rect>
+<text x="374.06" y="293.90" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Days 366–1825</text>
+<text x="236.00" y="303.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Days 0–30 excluded, to avoid events that prompted initiation</text>
+<text x="6.00" y="318.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">COMPARISONS</text>
+<rect x="100.00" y="305.00" width="166.00" height="30.00" rx="2" fill="#eef4fb" stroke="#2f6bb3" stroke-width="0.8"></rect>
+<text x="105.00" y="313.00" font-size="5.2" fill="#1b5eae" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">PRIMARY</text>
+<text x="105.00" y="322.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Carbamazepine, phenytoin, or phenobarbital</text>
+<text x="105.00" y="330.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">vs levetiracetam or lamotrigine · 3,249–3,535 per arm</text>
+<rect x="274.00" y="305.00" width="166.00" height="30.00" rx="2" fill="#ffffff" stroke="#2f3237" stroke-width="0.8"></rect>
+<text x="279.00" y="313.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">SECONDARY</text>
+<text x="279.00" y="322.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Each medication vs levetiracetam, lamotrigine, or lacosamide</text>
+<text x="279.00" y="330.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">679–3,214 per arm · Holm correction across 4 hypothesis medications</text>
+<text x="450.00" y="208.00" font-size="5.6" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Does the medication</text>
+<text x="450.00" y="216.00" font-size="5.6" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">matter?</text>
+<text x="450.00" y="225.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Fig. 4</text>
+<line x1="6.00" y1="343.00" x2="504.24" y2="343.00" stroke="#e7e6e1" stroke-width="0.6"></line>
+<text x="6.00" y="357.00" font-size="8" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">d</text>
+<text x="15.00" y="357.00" font-size="7" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Factors associated with fracture within epilepsy (All of Us), day-180 landmark</text>
+<line x1="232.00" y1="363.00" x2="232.00" y2="413.00" stroke="#2f6bb3" stroke-width="1.4"></line>
+<text x="6.00" y="374.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">COHORT</text>
+<rect x="100.00" y="364.50" width="130.00" height="17.00" rx="2" fill="#ffffff" stroke="#c9ccd1" stroke-width="0.8"></rect>
+<text x="165.00" y="370.70" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">2,299 adults with 2 seizure-related records</text>
+<text x="165.00" y="377.70" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">7–180 days apart; maintenance ASM started</text>
+<text x="236.00" y="370.70" font-size="5.2" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Day 0: landmark, 180 days after the second record</text>
+<text x="236.00" y="377.70" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Exposures measured at day 0</text>
+<text x="6.00" y="392.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">EXPOSURES</text>
+<text x="236.00" y="392.90" font-size="5.2" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">≥2 ASMs vs 0–1 · enzyme-inducing ASM · seizure-severity markers · 9 chronic conditions</text>
+<text x="6.00" y="406.50" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0.08">FOLLOW-UP</text>
+<rect x="232.47" y="400.50" width="207.53" height="9.00" rx="2" fill="#ffffff" stroke="#1b5eae" stroke-width="0.8"></rect>
+<text x="336.23" y="406.90" font-size="5.2" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">From the landmark to the last record · cause-specific Cox and Fine-Gray models</text>
+<text x="450.00" y="371.00" font-size="5.6" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Which factors matter</text>
+<text x="450.00" y="379.00" font-size="5.6" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">within epilepsy?</text>
+<text x="450.00" y="388.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Fig. 5</text>
+<line x1="100.00" y1="427.00" x2="440.00" y2="427.00" stroke="#2f3237" stroke-width="0.9"></line>
+<line x1="100.00" y1="427.00" x2="100.00" y2="431.00" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="100.00" y="438.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">−730</text>
+<line x1="146.00" y1="427.00" x2="146.00" y2="431.00" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="146.00" y="438.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">−365</text>
+<line x1="190.00" y1="427.00" x2="190.00" y2="431.00" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="190.00" y="438.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">−61</text>
+<line x1="204.00" y1="427.00" x2="204.00" y2="431.00" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="204.00" y="438.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">−30</text>
+<line x1="232.00" y1="427.00" x2="232.00" y2="431.00" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="232.00" y="438.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="700" font-style="normal" letter-spacing="0">0</text>
+<line x1="246.00" y1="427.00" x2="246.00" y2="431.00" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="246.00" y="438.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">30</text>
+<line x1="262.00" y1="427.00" x2="262.00" y2="431.00" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="262.00" y="438.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">90</text>
+<line x1="308.00" y1="427.00" x2="308.00" y2="431.00" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="308.00" y="438.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">365</text>
+<line x1="352.00" y1="427.00" x2="352.00" y2="431.00" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="352.00" y="438.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">730</text>
+<line x1="394.00" y1="427.00" x2="394.00" y2="431.00" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="394.00" y="438.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1095</text>
+<line x1="440.00" y1="427.00" x2="440.00" y2="431.00" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="440.00" y="438.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1825</text>
+<text x="270.00" y="449.00" font-size="6.5" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Days relative to day 0 (axis not to scale); day 0 is defined in each panel</text>
+<text x="6.00" y="461.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">ASM indicates antiseizure medication; ASMD, absolute standardized mean difference.</text>
+</svg>

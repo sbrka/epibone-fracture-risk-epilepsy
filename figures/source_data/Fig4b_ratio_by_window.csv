@@ -1,0 +1,22 @@
+outcome,window,measure,estimate,ci_low,ci_high,status
+Head or face injury,Days 31–365,RR,1.294,1.020,1.641,estimable
+Head or face injury,Days 31–730,RR,1.330,1.117,1.582,estimable
+Head or face injury,Days 366–1825,HR,1.066,0.893,1.273,estimable
+Broad fracture composite,Days 31–365,RR,1.182,0.883,1.580,estimable
+Broad fracture composite,Days 31–730,RR,1.254,1.013,1.553,estimable
+Broad fracture composite,Days 366–1825,HR,1.034,0.845,1.265,estimable
+Major osteoporotic fracture,Days 31–365,RR,1.126,0.757,1.676,estimable
+Major osteoporotic fracture,Days 31–730,RR,1.236,0.921,1.658,estimable
+Major osteoporotic fracture,Days 366–1825,HR,0.898,0.691,1.167,estimable
+Falls,Days 31–365,RR,,,,result unavailable
+Falls,Days 31–730,RR,1.104,0.926,1.316,estimable
+Falls,Days 366–1825,HR,1.064,0.900,1.258,estimable
+Osteoporosis recorded,Days 31–365,RR,,,,result unavailable
+Osteoporosis recorded,Days 31–730,RR,1.359,1.010,1.828,estimable
+Osteoporosis recorded,Days 366–1825,HR,1.367,1.046,1.785,estimable
+Densitometry performed,Days 31–365,RR,1.791,1.221,2.627,estimable
+Densitometry performed,Days 31–730,RR,1.651,1.250,2.182,estimable
+Densitometry performed,Days 366–1825,HR,1.336,1.042,1.714,estimable
+All-cause mortality,Days 31–365,RR,0.840,0.661,1.066,estimable
+All-cause mortality,Days 31–730,RR,1.044,0.867,1.257,estimable
+All-cause mortality,Days 366–1825,HR,1.024,0.863,1.214,estimable

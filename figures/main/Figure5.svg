@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 510.24 411.8" width="180.00mm" height="145.27mm" font-family="'Source Sans 3', 'Myriad Pro', Arial, Helvetica, sans-serif">
+<title>Fig. 5 | Factors associated with fracture and osteoporosis within epilepsy</title>
+<rect x="0" y="0" width="510.24" height="411.8" fill="#ffffff"></rect>
+<text x="6.00" y="14.00" font-size="8" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">a</text>
+<text x="15.00" y="14.00" font-size="7" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Treatment, seizure markers, and multimorbidity</text>
+<text x="6.00" y="34.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Exposure, outcome</text>
+<text x="272.00" y="27.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Reported</text>
+<text x="272.00" y="34.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">HR (95% CI)</text>
+<text x="326.00" y="27.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Calibrated</text>
+<text x="326.00" y="34.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">HR (95% CI)</text>
+<text x="384.00" y="27.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">q value</text>
+<text x="384.00" y="34.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Reported</text>
+<text x="414.00" y="34.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Calibrated</text>
+<line x1="6.00" y1="38.00" x2="452.00" y2="38.00" stroke="#c9ccd1" stroke-width="0.6"></line>
+<text x="6.00" y="51.50" font-size="5.4" fill="#2f6bb3" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Polytherapy, 2 or more antiseizure medications vs 0 or 1</text>
+<text x="150.00" y="64.40" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Major fracture</text>
+<line x1="202.68" y1="61.20" x2="231.90" y2="61.20" stroke="#1b5eae" stroke-width="1.7"></line>
+<line x1="202.68" y1="59.40" x2="202.68" y2="63.00" stroke="#1b5eae" stroke-width="0.9"></line>
+<line x1="231.90" y1="59.40" x2="231.90" y2="63.00" stroke="#1b5eae" stroke-width="0.9"></line>
+<rect x="215.46" y="59.40" width="3.60" height="3.60" rx="0.3" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></rect>
+<text x="272.00" y="64.40" font-size="5.2" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">1.44 (1.11–1.87)</text>
+<line x1="206.58" y1="65.20" x2="235.67" y2="65.20" stroke="#2f3237" stroke-width="1.2"></line>
+<rect x="219.95" y="63.76" width="2.88" height="2.88" rx="0.3" fill="#2f3237" stroke="#2f3237" stroke-width="0.75"></rect>
+<text x="326.00" y="64.40" font-size="5.2" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">1.55 (1.19–2.00)</text>
+<text x="384.00" y="64.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.081</text>
+<text x="414.00" y="64.40" font-size="5.2" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">0.025</text>
+<text x="150.00" y="75.40" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Osteoporosis</text>
+<line x1="207.05" y1="72.20" x2="247.94" y2="72.20" stroke="#1b5eae" stroke-width="1.7"></line>
+<line x1="207.05" y1="70.40" x2="207.05" y2="74.00" stroke="#1b5eae" stroke-width="0.9"></line>
+<line x1="247.94" y1="70.40" x2="247.94" y2="74.00" stroke="#1b5eae" stroke-width="0.9"></line>
+<rect x="225.42" y="70.40" width="3.60" height="3.60" rx="0.3" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></rect>
+<text x="272.00" y="75.40" font-size="5.2" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">1.72 (1.20–2.49)</text>
+<line x1="210.66" y1="76.20" x2="251.86" y2="76.20" stroke="#2f3237" stroke-width="1.2"></line>
+<rect x="229.86" y="74.76" width="2.88" height="2.88" rx="0.3" fill="#2f3237" stroke="#2f3237" stroke-width="0.75"></rect>
+<text x="326.00" y="75.40" font-size="5.2" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">1.85 (1.28–2.67)</text>
+<text x="384.00" y="75.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.081</text>
+<text x="414.00" y="75.40" font-size="5.2" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">0.025</text>
+<text x="150.00" y="86.40" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Osteopenia</text>
+<line x1="192.77" y1="83.20" x2="229.45" y2="83.20" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="192.77" y1="81.40" x2="192.77" y2="85.00" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="229.45" y1="81.40" x2="229.45" y2="85.00" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="209.30" y="81.40" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="272.00" y="86.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.29 (0.93–1.79)</text>
+<line x1="196.83" y1="87.20" x2="233.38" y2="87.20" stroke="#6b7280" stroke-width="1.2"></line>
+<rect x="213.44" y="85.76" width="2.88" height="2.88" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="326.00" y="86.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.38 (1.00–1.92)</text>
+<text x="384.00" y="86.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.43</text>
+<text x="414.00" y="86.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.52</text>
+<text x="150.00" y="97.40" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Vitamin D deficiency</text>
+<line x1="182.19" y1="94.20" x2="212.81" y2="94.20" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="182.19" y1="92.40" x2="182.19" y2="96.00" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="212.81" y1="92.40" x2="212.81" y2="96.00" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="195.59" y="92.40" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="272.00" y="97.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.01 (0.77–1.33)</text>
+<line x1="185.72" y1="98.20" x2="216.87" y2="98.20" stroke="#6b7280" stroke-width="1.2"></line>
+<rect x="199.71" y="96.76" width="2.88" height="2.88" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="326.00" y="97.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.08 (0.82–1.43)</text>
+<text x="384.00" y="97.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">&gt;0.99</text>
+<text x="414.00" y="97.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">&gt;0.99</text>
+<text x="6.00" y="108.00" font-size="5.4" fill="#2f6bb3" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Enzyme-inducing medication</text>
+<text x="150.00" y="120.90" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Major fracture</text>
+<line x1="190.93" y1="117.70" x2="227.54" y2="117.70" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="190.93" y1="115.90" x2="190.93" y2="119.50" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="227.54" y1="115.90" x2="227.54" y2="119.50" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="207.54" y="115.90" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="272.00" y="120.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.25 (0.90–1.73)</text>
+<text x="326.00" y="120.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">Not available</text>
+<text x="384.00" y="120.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.56</text>
+<text x="414.00" y="120.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">–</text>
+<text x="150.00" y="131.90" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Osteoporosis</text>
+<line x1="195.70" y1="128.70" x2="249.28" y2="128.70" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="195.70" y1="126.90" x2="195.70" y2="130.50" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="249.28" y1="126.90" x2="249.28" y2="130.50" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="220.66" y="126.90" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="272.00" y="131.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.58 (0.98–2.55)</text>
+<text x="326.00" y="131.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">Not available</text>
+<text x="384.00" y="131.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.28</text>
+<text x="414.00" y="131.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">–</text>
+<text x="6.00" y="142.50" font-size="5.4" fill="#2f6bb3" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Seizure-severity markers</text>
+<text x="150.00" y="155.40" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Baseline status epilepticus, major fracture</text>
+<line x1="193.37" y1="152.20" x2="237.32" y2="152.20" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="193.37" y1="150.40" x2="193.37" y2="154.00" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="237.32" y1="150.40" x2="237.32" y2="154.00" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="213.48" y="150.40" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="272.00" y="155.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.39 (0.94–2.06)</text>
+<text x="326.00" y="155.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">Not calibrated</text>
+<text x="384.00" y="155.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.37</text>
+<text x="414.00" y="155.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Suppressed</text>
+<text x="150.00" y="166.40" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Seizure-record rate, major fracture</text>
+<line x1="196.83" y1="163.20" x2="207.97" y2="163.20" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="196.83" y1="161.40" x2="196.83" y2="165.00" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="207.97" y1="161.40" x2="207.97" y2="165.00" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="200.88" y="161.40" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="272.00" y="166.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.11 (1.00–1.22)</text>
+<line x1="192.77" y1="167.20" x2="203.68" y2="167.20" stroke="#6b7280" stroke-width="1.2"></line>
+<rect x="197.05" y="165.76" width="2.88" height="2.88" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="326.00" y="166.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.03 (0.93–1.13)</text>
+<text x="384.00" y="166.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.28</text>
+<text x="414.00" y="166.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">&gt;0.99</text>
+<text x="150.00" y="177.40" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Seizure-record rate, osteoporosis</text>
+<line x1="203.18" y1="174.20" x2="216.87" y2="174.20" stroke="#1b5eae" stroke-width="1.7"></line>
+<line x1="203.18" y1="172.40" x2="203.18" y2="176.00" stroke="#1b5eae" stroke-width="0.9"></line>
+<line x1="216.87" y1="172.40" x2="216.87" y2="176.00" stroke="#1b5eae" stroke-width="0.9"></line>
+<rect x="207.98" y="172.40" width="3.60" height="3.60" rx="0.3" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></rect>
+<text x="272.00" y="177.40" font-size="5.2" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">1.26 (1.12–1.43)</text>
+<line x1="199.03" y1="178.20" x2="212.39" y2="178.20" stroke="#2f3237" stroke-width="1.2"></line>
+<rect x="204.19" y="176.76" width="2.88" height="2.88" rx="0.3" fill="#2f3237" stroke="#2f3237" stroke-width="0.75"></rect>
+<text x="326.00" y="177.40" font-size="5.2" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">1.17 (1.04–1.32)</text>
+<text x="384.00" y="177.40" font-size="5.2" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">0.009</text>
+<text x="414.00" y="177.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.19</text>
+<text x="150.00" y="188.40" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Baseline convulsive seizures, major fracture</text>
+<line x1="167.27" y1="185.20" x2="199.57" y2="185.20" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="167.27" y1="183.40" x2="167.27" y2="187.00" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="199.57" y1="183.40" x2="199.57" y2="187.00" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="181.83" y="183.40" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="272.00" y="188.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.79 (0.59–1.05)</text>
+<line x1="163.34" y1="189.20" x2="196.27" y2="189.20" stroke="#2f3237" stroke-width="1.2"></line>
+<rect x="178.52" y="187.76" width="2.88" height="2.88" rx="0.3" fill="#2f3237" stroke="#2f3237" stroke-width="0.75"></rect>
+<text x="326.00" y="188.40" font-size="5.2" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">0.74 (0.55–0.99)</text>
+<text x="384.00" y="188.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.37</text>
+<text x="414.00" y="188.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.50</text>
+<text x="150.00" y="199.40" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Baseline convulsive seizures, osteoporosis</text>
+<line x1="173.55" y1="196.20" x2="224.55" y2="196.20" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="173.55" y1="194.40" x2="173.55" y2="198.00" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="224.55" y1="194.40" x2="224.55" y2="198.00" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="197.23" y="194.40" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="272.00" y="199.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.04 (0.66–1.64)</text>
+<line x1="170.05" y1="200.20" x2="221.39" y2="200.20" stroke="#6b7280" stroke-width="1.2"></line>
+<rect x="194.26" y="198.76" width="2.88" height="2.88" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="326.00" y="199.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.98 (0.62–1.55)</text>
+<text x="384.00" y="199.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">&gt;0.99</text>
+<text x="414.00" y="199.40" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">&gt;0.99</text>
+<text x="6.00" y="210.00" font-size="5.4" fill="#2f6bb3" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">Multimorbidity, per additional chronic condition</text>
+<text x="150.00" y="222.90" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Major fracture</text>
+<line x1="199.57" y1="219.70" x2="207.97" y2="219.70" stroke="#1b5eae" stroke-width="1.7"></line>
+<line x1="199.57" y1="217.90" x2="199.57" y2="221.50" stroke="#1b5eae" stroke-width="0.9"></line>
+<line x1="207.97" y1="217.90" x2="207.97" y2="221.50" stroke="#1b5eae" stroke-width="0.9"></line>
+<rect x="201.88" y="217.90" width="3.60" height="3.60" rx="0.3" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></rect>
+<text x="272.00" y="222.90" font-size="5.2" fill="#1b5eae" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">1.13 (1.05–1.22)</text>
+<line x1="193.37" y1="223.70" x2="207.05" y2="223.70" stroke="#6b7280" stroke-width="1.2"></line>
+<rect x="199.18" y="222.26" width="2.88" height="2.88" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="326.00" y="222.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.07 (0.94–1.20)</text>
+<text x="384.00" y="222.90" font-size="5.2" fill="#2f3237" text-anchor="start" font-weight="600" font-style="normal" letter-spacing="0">0.043</text>
+<text x="414.00" y="222.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">&gt;0.99</text>
+<text x="150.00" y="233.90" font-size="5.6" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">Osteoporosis</text>
+<line x1="192.77" y1="230.70" x2="204.66" y2="230.70" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="192.77" y1="228.90" x2="192.77" y2="232.50" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="204.66" y1="228.90" x2="204.66" y2="232.50" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="196.69" y="228.90" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="272.00" y="233.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">1.03 (0.93–1.15)</text>
+<line x1="187.07" y1="234.70" x2="203.18" y2="234.70" stroke="#6b7280" stroke-width="1.2"></line>
+<rect x="193.69" y="233.26" width="2.88" height="2.88" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="326.00" y="233.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">0.97 (0.84–1.12)</text>
+<text x="384.00" y="233.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">&gt;0.99</text>
+<text x="414.00" y="233.90" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">&gt;0.99</text>
+<line x1="158.00" y1="39.00" x2="158.00" y2="242.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="196.83" y1="39.00" x2="196.83" y2="242.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="235.67" y1="39.00" x2="235.67" y2="242.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="258.38" y1="39.00" x2="258.38" y2="242.00" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="196.83" y1="39.00" x2="196.83" y2="242.00" stroke="#2f3237" stroke-width="0.8" stroke-dasharray="2.4 2.2"></line>
+<line x1="158.00" y1="242.00" x2="262.00" y2="242.00" stroke="#2f3237" stroke-width="0.9"></line>
+<line x1="158.00" y1="242.00" x2="158.00" y2="245.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="158.00" y="252.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">0.5</text>
+<line x1="196.83" y1="242.00" x2="196.83" y2="245.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="196.83" y="252.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1</text>
+<line x1="235.67" y1="242.00" x2="235.67" y2="245.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="235.67" y="252.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">2</text>
+<line x1="258.38" y1="242.00" x2="258.38" y2="245.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="258.38" y="252.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">3</text>
+<text x="210.00" y="262.50" font-size="6.5" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Hazard ratio (log scale)</text>
+<rect x="7.20" y="270.20" width="3.60" height="3.60" rx="0.3" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></rect>
+<text x="15.00" y="274.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Reported, 95% CI excludes 1</text>
+<rect x="102.56" y="270.56" width="2.88" height="2.88" rx="0.3" fill="#2f3237" stroke="#2f3237" stroke-width="0.75"></rect>
+<text x="110.00" y="274.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Calibrated to the empirical null, 95% CI excludes 1</text>
+<rect x="250.20" y="270.20" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="258.00" y="274.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">95% CI includes 1</text>
+<text x="6.00" y="298.00" font-size="8" fill="#2f6bb3" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">b</text>
+<text x="15.00" y="298.00" font-size="7" fill="#2f3237" text-anchor="start" font-weight="700" font-style="normal" letter-spacing="0">Major fracture by number of chronic conditions</text>
+<line x1="60.00" y1="373.61" x2="250.00" y2="373.61" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="60.00" y1="341.36" x2="250.00" y2="341.36" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="60.00" y1="322.49" x2="250.00" y2="322.49" stroke="#e7e6e1" stroke-width="0.5"></line>
+<line x1="60.00" y1="373.61" x2="250.00" y2="373.61" stroke="#2f3237" stroke-width="0.8" stroke-dasharray="2.4 2.2"></line>
+<line x1="60.00" y1="384.00" x2="60.00" y2="314.00" stroke="#2f3237" stroke-width="0.9"></line>
+<line x1="56.50" y1="373.61" x2="60.00" y2="373.61" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="55.00" y="375.51" font-size="5.7" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">1</text>
+<line x1="56.50" y1="341.36" x2="60.00" y2="341.36" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="55.00" y="343.26" font-size="5.7" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">2</text>
+<line x1="56.50" y1="322.49" x2="60.00" y2="322.49" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="55.00" y="324.39" font-size="5.7" fill="#2f3237" text-anchor="end" font-weight="400" font-style="normal" letter-spacing="0">3</text>
+<line x1="60.00" y1="384.00" x2="250.00" y2="384.00" stroke="#2f3237" stroke-width="0.9"></line>
+<line x1="86.00" y1="384.00" x2="86.00" y2="387.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="86.00" y="394.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">None</text>
+<rect x="84.20" y="371.81" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="86.00" y="368.61" font-size="5.2" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="italic" letter-spacing="0">Reference</text>
+<line x1="132.00" y1="384.00" x2="132.00" y2="387.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="132.00" y="394.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1</text>
+<line x1="178.00" y1="384.00" x2="178.00" y2="387.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="178.00" y="394.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">2</text>
+<line x1="224.00" y1="384.00" x2="224.00" y2="387.50" stroke="#2f3237" stroke-width="0.8"></line>
+<text x="224.00" y="394.60" font-size="5.7" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">3 or more</text>
+<polyline points="86.00,373.61 132.00,352.33 178.00,350.03 224.00,343.74" fill="none" stroke="#6b7280" stroke-width="0.8" stroke-linejoin="round"></polyline>
+<rect x="84.20" y="371.81" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<line x1="132.00" y1="373.61" x2="132.00" y2="331.34" stroke="#6b7280" stroke-width="1.2"></line>
+<line x1="130.20" y1="373.61" x2="133.80" y2="373.61" stroke="#6b7280" stroke-width="0.9"></line>
+<line x1="130.20" y1="331.34" x2="133.80" y2="331.34" stroke="#6b7280" stroke-width="0.9"></line>
+<rect x="130.20" y="350.53" width="3.60" height="3.60" rx="0.3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"></rect>
+<text x="132.00" y="327.94" font-size="5.2" fill="#6b7280" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">1.58 (1.00–2.48)</text>
+<line x1="178.00" y1="371.79" x2="178.00" y2="328.26" stroke="#1b5eae" stroke-width="1.7"></line>
+<line x1="176.20" y1="371.79" x2="179.80" y2="371.79" stroke="#1b5eae" stroke-width="0.9"></line>
+<line x1="176.20" y1="328.26" x2="179.80" y2="328.26" stroke="#1b5eae" stroke-width="0.9"></line>
+<rect x="176.20" y="348.23" width="3.60" height="3.60" rx="0.3" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></rect>
+<text x="178.00" y="324.86" font-size="5.2" fill="#1b5eae" text-anchor="middle" font-weight="600" font-style="normal" letter-spacing="0">1.66 (1.04–2.65)</text>
+<line x1="224.00" y1="363.98" x2="224.00" y2="323.58" stroke="#1b5eae" stroke-width="1.7"></line>
+<line x1="222.20" y1="363.98" x2="225.80" y2="363.98" stroke="#1b5eae" stroke-width="0.9"></line>
+<line x1="222.20" y1="323.58" x2="225.80" y2="323.58" stroke="#1b5eae" stroke-width="0.9"></line>
+<rect x="222.20" y="341.94" width="3.60" height="3.60" rx="0.3" fill="#1b5eae" stroke="#1b5eae" stroke-width="0.75"></rect>
+<text x="224.00" y="320.18" font-size="5.2" fill="#1b5eae" text-anchor="middle" font-weight="600" font-style="normal" letter-spacing="0">1.90 (1.23–2.93)</text>
+<text x="155.00" y="404.50" font-size="6.5" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0">Chronic conditions at the landmark, n</text>
+<text x="36.00" y="349.00" font-size="6.5" fill="#2f3237" text-anchor="middle" font-weight="400" font-style="normal" letter-spacing="0" transform="rotate(-90 36.00 349.00)">Hazard ratio (log scale)</text>
+<text x="272.00" y="322.00" font-size="5.6" fill="#2f3237" text-anchor="start" font-weight="400" font-style="normal" letter-spacing="0">Global P = 0.037; not calibrated.</text>
+<text x="272.00" y="332.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">Conditions counted: alcohol use disorder, cancer, cardiovascular disease,</text>
+<text x="272.00" y="339.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">cerebrovascular disease, chronic kidney disease, depression, diabetes,</text>
+<text x="272.00" y="346.00" font-size="5.2" fill="#6b7280" text-anchor="start" font-weight="400" font-style="italic" letter-spacing="0">obesity, and tobacco use.</text>
+</svg>

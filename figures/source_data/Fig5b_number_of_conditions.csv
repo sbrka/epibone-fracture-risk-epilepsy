@@ -1,0 +1,5 @@
+chronic_conditions,hazard_ratio,ci_low,ci_high
+0 (reference),1,,
+1,1.58,1.00,2.48
+2,1.66,1.04,2.65
+3 or more,1.90,1.23,2.93

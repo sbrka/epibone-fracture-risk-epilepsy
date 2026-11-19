@@ -1,0 +1,7 @@
+outcome,hazard_ratio,ci_low,ci_high,n_epilepsy,n_migraine,events_epilepsy,events_migraine,event_support_gate
+Osteoporosis recorded,1.6270,1.1962,2.2131,1409,1428,103,67,PASS
+Broad fracture composite,1.4482,0.9695,2.1635,1455,1463,57,41,PASS
+Head or face injury,1.4475,1.0014,2.0923,1356,1398,67,49,PASS
+Falls,1.3684,0.9605,1.9494,1334,1375,71,54,PASS
+Major osteoporotic fracture,1.4969,0.8207,2.7302,1568,1576,26,18,FAIL_DESCRIPTIVE_ONLY
+Vitamin D measured (testing),1.0973,0.8217,1.4654,1224,1203,96,88,PASS

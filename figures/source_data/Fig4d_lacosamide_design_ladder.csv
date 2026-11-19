@@ -1,0 +1,12 @@
+design,follow_up_days,n_per_arm,events,hazard_ratio,ci_low,ci_high,design_group
+Published estimate,1–1825,,,1.2700,1.1100,1.4400,As published
+3 or more prescriptions after day 0,1–1825,3219 / 3217,36 / 46,0.8900,0.5700,1.3700,Eligibility uses treatment after time zero
+6 or more prescriptions after day 0,1–1825,1804 / 1804,23 / 31,0.8300,0.4800,1.4200,Eligibility uses treatment after time zero
+Methods as written,1–1825,14362 / 14347,193 / 206,1.0300,0.8400,1.2500,Written methods as stated
+90-day exposure window,91–1825,18427 / 18358,292 / 314,1.0200,0.8700,1.2000,Written methods as stated
+3-month landmark,91–1825,1298 / 1289,36 / 40,0.9900,0.6300,1.5500,Landmark variants
+6-month landmark,181–1825,614 / 605,18 / 12,1.5300,0.7400,3.1800,Landmark variants
+New-user design,31–1825,6841 / 6781,174 / 178,1.0400,0.8400,1.2800,Time-aligned new-user design (August 2026)
+New-user design,31–365,6841 / 6781,62 / 59,1.0600,0.7400,1.5100,Time-aligned new-user design (August 2026)
+Corrected oral new-user design,31–730,6031 / 6019,97 / 97,1.0350,0.7810,1.3710,"Corrected oral pairwise new-user design (PNU/AUG77, October 2026)"
+Corrected oral new-user design,31–365,6031 / 6019,56 / 61,0.9320,0.6484,1.3395,"Corrected oral pairwise new-user design (PNU/AUG77, October 2026)"

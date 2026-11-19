@@ -1,0 +1,6 @@
+cohort,densitometry_rr,densitometry_ci_low,densitometry_ci_high,osteoporosis_rr,osteoporosis_ci_low,osteoporosis_ci_high
+All adults,0.8857,0.8436,0.9299,1.2889,1.2191,1.3628
+Women,0.7631,0.7225,0.8059,1.1374,1.0684,1.2108
+Women aged ≥50 y,0.6905,0.6527,0.7304,0.9599,0.9006,1.0230
+Men,1.3894,1.2170,1.5862,1.6757,1.4536,1.9318
+Aged ≥65 y,0.6170,0.5860,0.6500,0.9490,0.8810,1.0230

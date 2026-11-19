@@ -1,0 +1,6 @@
+cohort,comparator,data_source,measure,estimate,ci_low,ci_high,n,events,risks,note,source
+"TriNetX network, vs migraine, days 366-1095",migraine,TriNetX,HR,1.49,1.43,1.54,"224,639 / 230,348","6,134 / 4,357",2.73% / 1.89%,,eTable 12A T13R11
+"All of Us replication, 3 y",migraine,All of Us,HR,1.64,1.43,1.88,"4,599 / 38,740","332 / 1,456",7.65% / 4.76%,CORRECTED CI,eTable 12A T13R14
+"All of Us replication, competing risk",migraine,All of Us,SHR,1.64,1.43,1.87,"4,599 / 38,740","332 / 1,456",7.65% / 4.76%,,eTable 12A T13R15
+"All of Us, syncope comparator",syncope,All of Us,HR,1.34,1.17,1.54,"4,698 / 16,531",332 / 908,7.70% / 5.76%,,eTable 12A T13R16
+"All of Us, strict 2-code phenotype",migraine,All of Us,HR,1.61,1.26,2.08,"1,206 / 8,174",93 / 361,8.58% / 5.46%,,eTable 12A T13R17
