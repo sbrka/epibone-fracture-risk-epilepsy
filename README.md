@@ -1,6 +1,6 @@
 # Fracture risk in epilepsy: analysis and figure code
 
-Code for the manuscript **"Fracture risk in epilepsy: contributions of seizures, falls, skeletal health, and medications"** (Schubert et al.; submitted to *Nature Communications*, November 2026).
+Code for the manuscript **"Fracture risk in epilepsy: contributions of seizures, falls, skeletal health, and medications"** (Schubert et al., November 2026).
 
 Corresponding author: Kai Michael Schubert, Department of Neurology, University Hospital Zurich, Switzerland (contact details in the manuscript).
 
